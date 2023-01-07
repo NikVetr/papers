@@ -1,0 +1,80 @@
+\BOOKMARK [1][-]{chapter*.2}{List of Figures}{}% 1
+\BOOKMARK [1][-]{chapter*.3}{List of Tables}{}% 2
+\BOOKMARK [1][-]{chapter*.3}{Abstract}{}% 3
+\BOOKMARK [1][-]{chapter*.3}{Acknowledgments}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 5
+\BOOKMARK [1][-]{section.1.1}{The Need for Phylogenetic Models of Morphological Evolution}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.2}{A Brief Overview of Popular Continuous Character Evolutionary Models}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Ornstein-Uhlenbeck Processes}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Morphological Clock Models}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{Benefits of Working in a Bayesian Inferential Framework}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.4}{Prospectus}{chapter.1}% 11
+\BOOKMARK [0][-]{chapter.2}{Bayesian Phylogenetics Under Multivariate Brownian Motion}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Abstract}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{Introduction}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Materials and Methods}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{Simulating from the Model}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{Bayesian Inference}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.3}{Data}{section.2.3}% 18
+\BOOKMARK [2][-]{subsection.2.3.4}{Likelihood}{section.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.3.5}{Priors}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.6}{MCMC}{section.2.3}% 21
+\BOOKMARK [2][-]{subsection.2.3.7}{Simulations}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.8}{MCMC Diagnostics}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.9}{Output Analysis}{section.2.3}% 24
+\BOOKMARK [2][-]{subsection.2.3.10}{Empirical Analyses}{section.2.3}% 25
+\BOOKMARK [2][-]{subsection.2.3.11}{Further Simulations}{section.2.3}% 26
+\BOOKMARK [1][-]{section.2.4}{Results}{chapter.2}% 27
+\BOOKMARK [1][-]{section.2.5}{Discussion}{chapter.2}% 28
+\BOOKMARK [1][-]{section.2.6}{Figures}{chapter.2}% 29
+\BOOKMARK [1][-]{section.2.7}{Tables}{chapter.2}% 30
+\BOOKMARK [0][-]{chapter.3}{Primate Phylogenetics with Landmark Data}{}% 31
+\BOOKMARK [1][-]{section.3.1}{Abstract}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.2}{Introduction}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.3}{Materials and Methods}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.1}{Distance-Based Methods}{section.3.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.2}{Data Discretization}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.3}{Maximum Parsimony}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.4}{Bayesian Inference}{section.3.3}% 38
+\BOOKMARK [2][-]{subsection.3.3.5}{Inverse Analysis}{section.3.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.6}{Simulation Experiment}{section.3.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.7}{Proposal Distribution}{section.3.3}% 41
+\BOOKMARK [1][-]{section.3.4}{Results}{chapter.3}% 42
+\BOOKMARK [1][-]{section.3.5}{Discussion}{chapter.3}% 43
+\BOOKMARK [1][-]{section.3.6}{Figures}{chapter.3}% 44
+\BOOKMARK [1][-]{section.3.7}{Tables}{chapter.3}% 45
+\BOOKMARK [0][-]{chapter.4}{Human Population History from Discrete Dental Traits}{}% 46
+\BOOKMARK [1][-]{section.4.1}{Abstract}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.2}{Introduction}{chapter.4}% 48
+\BOOKMARK [2][-]{subsection.4.2.1}{Multivariate Character Evolution}{section.4.2}% 49
+\BOOKMARK [2][-]{subsection.4.2.2}{Relation to Other Models and Methods}{section.4.2}% 50
+\BOOKMARK [2][-]{subsection.4.2.3}{Discrete Dental Traits}{section.4.2}% 51
+\BOOKMARK [1][-]{section.4.3}{Materials and Methods}{chapter.4}% 52
+\BOOKMARK [2][-]{subsection.4.3.1}{Empirical Data}{section.4.3}% 53
+\BOOKMARK [2][-]{subsection.4.3.2}{Data Filtration}{section.4.3}% 54
+\BOOKMARK [2][-]{subsection.4.3.3}{Hierarchical Phylogenetic Likelihood}{section.4.3}% 55
+\BOOKMARK [2][-]{subsection.4.3.4}{Two-Step Algorithm}{section.4.3}% 56
+\BOOKMARK [2][-]{subsection.4.3.5}{Iterative Optimization}{section.4.3}% 57
+\BOOKMARK [2][-]{subsection.4.3.6}{Stochastic MNAR Imputation}{section.4.3}% 58
+\BOOKMARK [2][-]{subsection.4.3.7}{Additional Correlation Matrix Processing}{section.4.3}% 59
+\BOOKMARK [2][-]{subsection.4.3.8}{Bayesian Inference}{section.4.3}% 60
+\BOOKMARK [2][-]{subsection.4.3.9}{Simulation Experiments}{section.4.3}% 61
+\BOOKMARK [1][-]{section.4.4}{Results}{chapter.4}% 62
+\BOOKMARK [1][-]{section.4.5}{Discussion}{chapter.4}% 63
+\BOOKMARK [1][-]{section.4.6}{Figures}{chapter.4}% 64
+\BOOKMARK [1][-]{section.4.7}{Tables}{chapter.4}% 65
+\BOOKMARK [1][-]{section.4.8}{Supplemental Figures}{chapter.4}% 66
+\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 67
+\BOOKMARK [1][-]{section.5.1}{Does it work?}{chapter.5}% 68
+\BOOKMARK [1][-]{section.5.2}{Limitunities}{chapter.5}% 69
+\BOOKMARK [0][-]{appendix.A}{Factorization of the Phylogenetic Likelihood}{}% 70
+\BOOKMARK [0][-]{appendix.B}{More Efficient Proposals Over Correlation Matrices}{}% 71
+\BOOKMARK [1][-]{section.B.1}{Motivation}{appendix.B}% 72
+\BOOKMARK [1][-]{section.B.2}{Description}{appendix.B}% 73
+\BOOKMARK [1][-]{section.B.3}{Validation}{appendix.B}% 74
+\BOOKMARK [1][-]{section.B.4}{Conclusion}{appendix.B}% 75
+\BOOKMARK [1][-]{section.B.5}{Figures}{appendix.B}% 76
+\BOOKMARK [0][-]{appendix.C}{Reconstructing Ancestral Histories}{}% 77
+\BOOKMARK [1][-]{section.C.1}{Motivation}{appendix.C}% 78
+\BOOKMARK [1][-]{section.C.2}{Algorithm}{appendix.C}% 79
+\BOOKMARK [1][-]{section.C.3}{Additional Applications}{appendix.C}% 80

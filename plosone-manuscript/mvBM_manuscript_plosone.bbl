@@ -1,0 +1,405 @@
+\begin{thebibliography}{}
+
+\bibitem[Bailey, 2002]{baileyNeandertalDentalMorphology2002}
+Bailey, S.~E. (2002).
+\newblock {\em Neandertal Dental Morphology: {{Implications}} for Modern Human
+  Origins}.
+\newblock PhD thesis, Arizona State University Tempe.
+
+\bibitem[Bates and Maechler, 2019]{batesPackageMatrix2019}
+Bates, D. and Maechler, M. (2019).
+\newblock Package `{{Matrix}}'.
+
+\bibitem[Bliss, 1934]{blissMethodProbits1934}
+Bliss, C.~I. (1934).
+\newblock The method of probits.
+\newblock {\em Science}.
+
+\bibitem[Blows et~al., 2015]{blowsPhenomewideDistributionGenetic2015}
+Blows, M.~W., Allen, S.~L., Collet, J.~M., Chenoweth, S.~F., and McGuigan, K.
+  (2015).
+\newblock The phenome-wide distribution of genetic variance.
+\newblock {\em The American Naturalist}, 186(1):15--30.
+
+\bibitem[Brocklehurst and Benevento,
+  2020]{brocklehurstDentalCharactersUsed2020}
+Brocklehurst, N. and Benevento, G.~L. (2020).
+\newblock Dental characters used in phylogenetic analyses of mammals show
+  higher rates of evolution, but not reduced independence.
+\newblock {\em PeerJ}, 8:e8744.
+
+\bibitem[Carter et~al., 2014]{carterNewsViewsNonmetric2014}
+Carter, K., Worthington, S., and Smith, T.~M. (2014).
+\newblock News and views: {{Non}}-{{Metric}} dental traits and hominin
+  phylogeny.
+\newblock {\em J. Hum. Evol.}, 69:123--128.
+
+\bibitem[Cheverud, 1996]{cheverudDevelopmentalIntegrationEvolution1996}
+Cheverud, J.~M. (1996).
+\newblock Developmental integration and the evolution of pleiotropy.
+\newblock {\em American Zoologist}, 36(1):44--50.
+
+\bibitem[Chib and Greenberg, 1998]{chibAnalysisMultivariateProbit1998}
+Chib, S. and Greenberg, E. (1998).
+\newblock Analysis of multivariate probit models.
+\newblock {\em Biometrika}, 85(2):347--361.
+
+\bibitem[Cybis et~al., 2015]{cybisAssessingPhenotypicCorrelation2015}
+Cybis, G.~B., Sinsheimer, J.~S., Bedford, T., Mather, A.~E., Lemey, P., and
+  Suchard, M.~A. (2015).
+\newblock Assessing phenotypic correlation through the multivariate
+  phylogenetic latent liability model.
+\newblock {\em The annals of applied statistics}, 9(2):969.
+
+\bibitem[Demir et~al., 2017]{demirSmileDentalAesthetics2017}
+Demir, F., Oktay, E.~A., and Topcu, F.~T. (2017).
+\newblock Smile and dental aesthetics: {{A}} literature review.
+\newblock {\em Med Sci}, 6(1):172--7.
+
+\bibitem[Felsenstein,
+  1973]{felsensteinMaximumlikelihoodEstimationEvolutionary1973}
+Felsenstein, J. (1973).
+\newblock Maximum-likelihood estimation of evolutionary trees from continuous
+  characters.
+\newblock {\em American Journal of Human Genetics}, 25(5):471--492.
+
+\bibitem[Felsenstein, 2004]{felsensteinInferringPhylogenies2004}
+Felsenstein, J. (2004).
+\newblock {\em Inferring Phylogenies}.
+\newblock {Sinauer Associates}, {Sunderland, Mass}.
+
+\bibitem[Felsenstein, 2005]{felsensteinUsingQuantitativeGenetic2005}
+Felsenstein, J. (2005).
+\newblock Using the quantitative genetic threshold model for inferences between
+  and within species.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 360(1459):1427--1434.
+
+\bibitem[Felsenstein, 2012]{felsensteinComparativeMethodBoth2012}
+Felsenstein, J. (2012).
+\newblock A {{Comparative Method}} for {{Both Discrete}} and {{Continuous
+  Characters Using}} the {{Threshold Model}}.
+\newblock {\em The American Naturalist}, 179(2):145--156.
+
+\bibitem[Fisher, 1935]{fisherCaseZeroSurvivors1935}
+Fisher, R.~A. (1935).
+\newblock The case of zero survivors in probit assays.
+\newblock {\em Annals of Applied Biology}, 22(1):164--165.
+
+\bibitem[Fitch, 1971]{fitchDefiningCourseEvolution1971}
+Fitch, W.~M. (1971).
+\newblock Toward defining the course of evolution: {{Minimum}} change for a
+  specific tree topology.
+\newblock {\em Systematic Biology}, 20(4):406--416.
+
+\bibitem[Gelman and Rubin, 1992]{gelmanInferenceIterativeSimulation1992}
+Gelman, A. and Rubin, D.~B. (1992).
+\newblock Inference from iterative simulation using multiple sequences.
+\newblock {\em Statistical science}, 7(4):457--472.
+
+\bibitem[Genz, 1992]{genzNumericalComputationMultivariate1992}
+Genz, A. (1992).
+\newblock Numerical computation of multivariate normal probabilities.
+\newblock {\em Journal of computational and graphical statistics},
+  1(2):141--149.
+
+\bibitem[Genz and Bretz, 2002]{genzComparisonMethodsComputation2002}
+Genz, A. and Bretz, F. (2002).
+\newblock Comparison of methods for the computation of multivariate t
+  probabilities.
+\newblock {\em Journal of Computational and Graphical Statistics},
+  11(4):950--971.
+
+\bibitem[Genz et~al., 2020]{genzPackageMvtnorm2020}
+Genz, A., Bretz, F., Miwa, T., Mi, X., Leisch, F., Scheipl, F., Bornkamp, B.,
+  Maechler, M., Hothorn, T., and Hothorn, M.~T. (2020).
+\newblock Package `{{Mvtnorm}}'.
+
+\bibitem[{G{\'o}mez-Robles}, 2019]{gomez-roblesDentalEvolutionaryRates2019}
+{G{\'o}mez-Robles}, A. (2019).
+\newblock Dental evolutionary rates and its implications for the
+  {{Neanderthal}}\textendash{{Modern}} human divergence.
+\newblock {\em Science advances}, 5(5):eaaw1268.
+
+\bibitem[Gr{\"u}neberg, 1955]{grunebergGeneticalStudiesSkeleton1955}
+Gr{\"u}neberg, H. (1955).
+\newblock Genetical studies on the skeleton of the mouse {{XV}}. {{Relations}}
+  between major and minor variants.
+\newblock {\em Journal of Genetics}, 53(3):515.
+
+\bibitem[Hanihara, 2008]{haniharaMorphologicalVariationMajor2008}
+Hanihara, T. (2008).
+\newblock Morphological variation of major human populations based on nonmetric
+  dental traits.
+\newblock {\em American Journal of Physical Anthropology: The Official
+  Publication of the American Association of Physical Anthropologists},
+  136(2):169--182.
+
+\bibitem[Hastings, 1970]{hastingsMonteCarloSampling1970}
+Hastings, W.~K. (1970).
+\newblock Monte {{Carlo}} sampling methods using {{Markov}} chains and their
+  applications.
+
+\bibitem[Higham, 2002]{highamComputingNearestCorrelation2002}
+Higham, N.~J. (2002).
+\newblock Computing the nearest correlation {{Matrix}}\textemdash a problem
+  from finance.
+\newblock {\em IMA journal of Numerical Analysis}, 22(3):329--343.
+
+\bibitem[Higham et~al., 2014]{highamTimingSpatiotemporalPatterning2014}
+Higham, T., Douka, K., Wood, R., Ramsey, C.~B., Brock, F., Basell, L., Camps,
+  M., Arrizabalaga, A., Baena, J., and {Barroso-Ru{\'i}z}, C. (2014).
+\newblock The timing and spatiotemporal patterning of {{Neanderthal}}
+  disappearance.
+\newblock {\em Nature}, 512(7514):306--309.
+
+\bibitem[Hlusko et~al., 2018]{hluskoEnvironmentalSelectionLast2018}
+Hlusko, L.~J., Carlson, J.~P., Chaplin, G., Elias, S.~A., Hoffecker, J.~F.,
+  Huffman, M., Jablonski, N.~G., Monson, T.~A., O'Rourke, D.~H., and Pilloud,
+  M.~A. (2018).
+\newblock Environmental selection during the last ice age on the
+  mother-to-infant transmission of vitamin {{D}} and fatty acids through breast
+  milk.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  115(19):E4426--E4432.
+
+\bibitem[Howell, 1987]{howellVariationSizeShape1987}
+Howell, P. G.~T. (1987).
+\newblock The variation in the size and shape of the human speech pattern with
+  incisor-tooth relation.
+\newblock {\em Archives of Oral Biology}, 32(8):587--592.
+
+\bibitem[Hubbard et~al., 2015]{hubbardNuclearDNADental2015}
+Hubbard, A.~R., {Guatelli-Steinberg}, D., and Irish, J.~D. (2015).
+\newblock Do nuclear {{DNA}} and dental nonmetric data produce similar
+  reconstructions of regional population history? {{An}} example from modern
+  coastal {{K}} enya.
+\newblock {\em American journal of physical anthropology}, 157(2):295--304.
+
+\bibitem[Irish et~al., 2018]{irishAncientTeethPhenetic2018}
+Irish, J.~D., Bailey, S.~E., {Guatelli-Steinberg}, D., Delezene, L.~K., and
+  Berger, L.~R. (2018).
+\newblock Ancient teeth, phenetic affinities, and {{African}} hominins:
+  {{Another}} look at where {{Homo}} naledi fits in.
+\newblock {\em Journal of Human Evolution}, 122:108--123.
+
+\bibitem[Irish et~al., 2013]{irishDentalMorphologyPhylogenetic2013}
+Irish, J.~D., {Guatelli-Steinberg}, D., Legge, S.~S., {de Ruiter}, D.~J., and
+  Berger, L.~R. (2013).
+\newblock Dental morphology and the phylogenetic ``{{Place}}'' of
+  {{Australopithecus}} sediba.
+\newblock {\em Science}, 340(6129):1233062.
+
+\bibitem[Jukes and Cantor, 1969]{jukesEvolutionProteinMolecules1969}
+Jukes, T.~H. and Cantor, C.~R. (1969).
+\newblock Evolution of protein molecules.
+\newblock {\em Mammalian protein metabolism}, 3(21):132.
+
+\bibitem[Kenkel, 2015]{kenkelPackagePbivnorm2015}
+Kenkel, M.~B. (2015).
+\newblock Package `{{Pbivnorm}}'.
+
+\bibitem[Lewis, 2001]{lewisLikelihoodApproachEstimating2001}
+Lewis, P.~O. (2001).
+\newblock A likelihood approach to estimating phylogeny from discrete
+  morphological character data.
+\newblock {\em Systematic biology}, 50(6):913--925.
+
+\bibitem[Mallick et~al., 2016]{mallickSimonsGenomeDiversity2016}
+Mallick, S., Li, H., Lipson, M., Mathieson, I., Gymrek, M., Racimo, F., Zhao,
+  M., Chennagiri, N., Nordenfelt, S., and Tandon, A. (2016).
+\newblock The {{Simons}} genome diversity project: 300 genomes from 142 diverse
+  populations.
+\newblock {\em Nature}, 538(7624):201--206.
+
+\bibitem[Mulligan and Szathm{\'a}ry, 2017]{mulliganPeoplingAmericasOrigin2017}
+Mulligan, C.~J. and Szathm{\'a}ry, E.~J. (2017).
+\newblock The peopling of the {{Americas}} and the origin of the {{Beringian}}
+  occupation model.
+\newblock {\em American journal of physical anthropology}, 162(3):403--408.
+
+\bibitem[Nichol, 1989]{nicholComplexSegregationAnalysis1989}
+Nichol, C.~R. (1989).
+\newblock Complex segregation analysis of dental morphological variants.
+\newblock {\em American Journal of Physical Anthropology}, 78(1):37--59.
+
+\bibitem[Nielsen et~al., 2017]{nielsenTracingPeoplingWorld2017}
+Nielsen, R., Akey, J.~M., Jakobsson, M., Pritchard, J.~K., Tishkoff, S., and
+  Willerslev, E. (2017).
+\newblock Tracing the peopling of the world through genomics.
+\newblock {\em Nature}, 541(7637):302--310.
+
+\bibitem[Pagel, 1994]{pagelDetectingCorrelatedEvolution1994}
+Pagel, M. (1994).
+\newblock Detecting correlated evolution on phylogenies: {{A}} general method
+  for the comparative analysis of discrete characters.
+\newblock {\em Proceedings of the Royal Society of London. Series B: Biological
+  Sciences}, 255(1342):37--45.
+
+\bibitem[Pagel and Meade, 2006]{pagelBayesianAnalysisCorrelated2006}
+Pagel, M. and Meade, A. (2006).
+\newblock Bayesian analysis of correlated evolution of discrete characters by
+  reversible-jump {{Markov}} chain {{Monte Carlo}}.
+\newblock {\em The American Naturalist}, 167(6):808--825.
+
+\bibitem[Plummer et~al., 2006]{plummerCODAConvergenceDiagnosis2006}
+Plummer, M., Best, N., Cowles, K., and Vines, K. (2006).
+\newblock {{CODA}}: {{Convergence}} diagnosis and output analysis for {{MCMC}}.
+\newblock {\em R News}, 6(1):7--11.
+
+\bibitem[Rathmann and {Reyes-Centeno}, 2020]{rathmannTestingUtilityDental2020}
+Rathmann, H. and {Reyes-Centeno}, H. (2020).
+\newblock Testing the utility of dental morphological trait combinations for
+  inferring human neutral genetic variation.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  117(20):10769--10777.
+
+\bibitem[Rathmann et~al., 2017]{rathmannReconstructingHumanPopulation2017}
+Rathmann, H., {Reyes-Centeno}, H., Ghirotto, S., Creanza, N., Hanihara, T., and
+  Harvati, K. (2017).
+\newblock Reconstructing human population history from dental phenotypes.
+\newblock {\em Scientific reports}, 7(1):1--9.
+
+\bibitem[Revell, 2014]{revellAncestralCharacterEstimation2014a}
+Revell, L.~J. (2014).
+\newblock Ancestral {{Character Estimation Under}} the {{Threshold Model}} from
+  {{Quantitative Genetics}}.
+\newblock {\em Evolution}, 68(3):743--759.
+
+\bibitem[{Reyes-Centeno} et~al., 2017]{reyes-centenoTestingModernHuman2017}
+{Reyes-Centeno}, H., Rathmann, H., Hanihara, T., and Harvati, K. (2017).
+\newblock Testing modern human out-of-{{Africa}} dispersal models using dental
+  nonmetric data.
+\newblock {\em Current Anthropology}, 58(S17):S406--S417.
+
+\bibitem[Rink et~al., 1995]{rinkESRAgesKrapina1995}
+Rink, W.~J., Schwarcz, H.~P., Smith, F.~H., and Radov{\^c}i{\^c}, J. (1995).
+\newblock {{ESR}} ages for {{Krapina}} hominids.
+\newblock {\em Nature}, 378(6552):24--24.
+
+\bibitem[Robinson and Foulds, 1981]{robinsonComparisonPhylogeneticTrees1981}
+Robinson, D. and Foulds, L. (1981).
+\newblock Comparison of phylogenetic trees.
+\newblock {\em Mathematical Biosciences}, 53(1-2):131--147.
+
+\bibitem[Robinson et~al., 2003]{robinsonProteinEvolutionDependence2003}
+Robinson, D.~M., Jones, D.~T., Kishino, H., Goldman, N., and Thorne, J.~L.
+  (2003).
+\newblock Protein evolution with dependence among codons due to tertiary
+  structure.
+\newblock {\em Molecular biology and evolution}, 20(10):1692--1704.
+
+\bibitem[Rodrigue et~al., 2005]{rodrigueSiteInterdependenceAttributed2005}
+Rodrigue, N., Lartillot, N., Bryant, D., and Philippe, H. (2005).
+\newblock Site interdependence attributed to tertiary structure in amino acid
+  sequence evolution.
+\newblock {\em Gene}, 347(2):207--217.
+
+\bibitem[Rodrigue et~al.,
+  2006]{rodrigueAssessingSiteinterdependentPhylogenetic2006}
+Rodrigue, N., Philippe, H., and Lartillot, N. (2006).
+\newblock Assessing site-interdependent phylogenetic models of sequence
+  evolution.
+\newblock {\em Molecular biology and evolution}, 23(9):1762--1775.
+
+\bibitem[Schlebusch et~al., 2017]{schlebuschSouthernAfricanAncient2017}
+Schlebusch, C.~M., Malmstr{\"o}m, H., G{\"u}nther, T., Sj{\"o}din, P.,
+  Coutinho, A., Edlund, H., Munters, A.~R., Vicente, M., Steyn, M., and
+  Soodyall, H. (2017).
+\newblock Southern {{African}} ancient genomes estimate modern human divergence
+  to 350,000 to 260,000 years ago.
+\newblock {\em Science}, 358(6363):652--655.
+
+\bibitem[Schliep, 2011]{schliepPhangornPhylogeneticAnalysis2011}
+Schliep, K.~P. (2011).
+\newblock Phangorn: {{Phylogenetic}} analysis in {{R}}.
+\newblock {\em Bioinformatics}, 27(4):592--593.
+
+\bibitem[Scott, 1973]{scottDentalMorphologyGenetic1973}
+Scott, G.~R. (1973).
+\newblock Dental morphology: {{A}} genetic study of {{American}} white families
+  and variation in living {{Southwest Indians}}.
+\newblock {\em Ph. D. Dissertation, Arizona State University}.
+
+\bibitem[Scott et~al., 2018a]{scottRASUDASNewWebbased2018}
+Scott, G.~R., Pilloud, M.~A., Navega, D., {d'Oliveira}, J., Cunha, E., and
+  Irish, J.~D. (2018a).
+\newblock {{rASUDAS}}: {{A}} new web-based application for estimating ancestry
+  from tooth morphology.
+\newblock {\em Forensic Anthropology}, 1(1):18--31.
+
+\bibitem[Scott et~al., 2018b]{scottAnthropologyModernHuman2018}
+Scott, G.~R., Turner~II, C.~G., Townsend, G.~C., and {Martin{\'o}n-Torres}, M.
+  (2018b).
+\newblock {\em The Anthropology of Modern Human Teeth: {{Dental}} Morphology
+  and Its Variation in Recent and Fossil {{Homo}} Sapiens}, volume~79.
+\newblock {Cambridge University Press}.
+
+\bibitem[Sodini et~al., 2018]{sodiniComparisonGenotypicPhenotypic2018}
+Sodini, S.~M., Kemper, K.~E., Wray, N.~R., and Trzaskowski, M. (2018).
+\newblock Comparison of genotypic and phenotypic correlations: {{Cheverud}}'s
+  conjecture in humans.
+\newblock {\em Genetics}, 209(3):941--948.
+
+\bibitem[Steel and Penny, 2000]{steelParsimonyLikelihoodRole2000}
+Steel, M. and Penny, D. (2000).
+\newblock Parsimony, likelihood, and the role of models in molecular
+  phylogenetics.
+\newblock {\em Molecular biology and evolution}, 17(6):839--850.
+
+\bibitem[Team, 2013]{rcoreteamLanguageEnvironmentStatistical2013}
+Team, R.~C. (2013).
+\newblock {\em R: {{A}} Language and Environment for Statistical Computing}.
+\newblock {R Foundation for Statistical Computing}.
+
+\bibitem[Trinkaus, 1987]{trinkausNeandertalFaceEvolutionary1987}
+Trinkaus, E. (1987).
+\newblock The {{Neandertal}} face: {{Evolutionary}} and functional perspectives
+  on a recent hominid face.
+\newblock {\em Journal of Human Evolution}, 16(5):429--443.
+
+\bibitem[Tuffley and Steel, 1997]{tuffleyLinksMaximumLikelihood1997}
+Tuffley, C. and Steel, M. (1997).
+\newblock Links between maximum likelihood and maximum parsimony under a simple
+  model of site substitution.
+\newblock {\em Bulletin of mathematical biology}, 59(3):581--607.
+
+\bibitem[Turner et~al., 1991]{turnerScoringProducesKey1991}
+Turner, C.~I., Nichol, C., and Scott, G. (1991).
+\newblock Scoring produces for key morphological traits of the permanent
+  dentition: {{The Arizona State University}} dental anthropology system.
+\newblock {\em Advances in dental anthropology}, pages 13--31.
+
+\bibitem[Wagner, 2012]{wagnerModellingRateDistributions2012}
+Wagner, P.~J. (2012).
+\newblock Modelling rate distributions using character compatibility:
+  {{Implications}} for morphological evolution among fossil invertebrates.
+\newblock {\em Biology Letters}, 8(1):143--146.
+
+\bibitem[Wright and Hillis, 2014]{wrightBayesianAnalysisUsing2014}
+Wright, A.~M. and Hillis, D.~M. (2014).
+\newblock Bayesian {{Analysis Using}} a {{Simple Likelihood Model Outperforms
+  Parsimony}} for {{Estimation}} of {{Phylogeny}} from {{Discrete Morphological
+  Data}}.
+\newblock {\em PLoS ONE}, 9(10):e109210.
+
+\bibitem[Wright et~al., 2016]{wrightModelingCharacterChange2016}
+Wright, A.~M., Lloyd, G.~T., and Hillis, D.~M. (2016).
+\newblock Modeling {{Character Change Heterogeneity}} in {{Phylogenetic
+  Analyses}} of {{Morphology}} through the {{Use}} of {{Priors}}.
+\newblock {\em Systematic Biology}, 65(4):602--611.
+
+\bibitem[Yang, 1994]{yangMaximumLikelihoodPhylogenetic1994}
+Yang, Z. (1994).
+\newblock Maximum likelihood phylogenetic estimation from {{DNA}} sequences
+  with variable rates over sites: {{Approximate}} methods.
+\newblock {\em Journal of Molecular evolution}, 39(3):306--314.
+
+\bibitem[Zhang et~al., 2019]{zhangLargescaleInferenceCorrelation2019}
+Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Payne, R.~P., Goulder, P.,
+  Lemey, P., and Suchard, M.~A. (2019).
+\newblock Large-scale inference of correlation among mixed-type biological
+  traits with {{Phylogenetic}} multivariate probit models.
+\newblock {\em arXiv preprint arXiv:1912.09185}.
+
+\end{thebibliography}

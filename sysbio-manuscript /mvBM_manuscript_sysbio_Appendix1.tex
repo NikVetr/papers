@@ -1,0 +1,143 @@
+\documentclass[10pt]{article}
+\usepackage[top=1.2in, bottom=0.7in, left=0.7in, right=0.7in]{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{placeins}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames,table]{xcolor}
+\usepackage{colortbl}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{xspace}
+\usepackage[labelfont=bf]{caption}
+\usepackage{verbatim}
+\usepackage{paralist}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{wrapfig}
+\usepackage[font=footnotesize,labelfont=bf,justification=justified,singlelinecheck=false]{caption}
+\usepackage{titlesec}
+\usepackage{natbib}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{tabulary}
+\usepackage{multirow}
+\usepackage{lipsum}
+\usepackage{mathpazo}
+\usepackage{authblk}
+\usepackage{nameref}
+\usepackage{cancel}
+\usepackage{commath}
+\usepackage{xspace}
+\usepackage{dsfont}
+\usepackage{cuted}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\newcommand{\varB}[1]{{\operatorname{\mathit{#1}}}}
+
+% distance between columns
+\setlength{\columnsep}{3ex}
+
+% section rules
+\titleformat{\paragraph}[runin]
+{\normalfont\itshape}
+{\theparagraph}{}{\noindent}[.---]
+
+\titlespacing{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0em}
+
+\titleformat{\section}
+  {\centering\scshape}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\centering\itshape}{\thesubsection}{1em}{}
+
+% bibliography settings
+
+% header
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[C]{\scshape VETR ET AL.---Appendix 1}
+
+% Title %
+
+\title{\vspace{-2.5cm}Appendix 1}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle{}
+
+\section*{Factorization of Phylogenetic Likelihood under Multivariate Brownian Motion}
+
+Below can be found a short derivation of one decomposition for the phylogenetic multivariate Brownian likelihood function, used internally to accelerate the calculation of phylogenetic likelihoods in RevBayes and other software. It involves two separate factorizations that allow for a very high dimensional multivariate normal density to be expressed as the product of univariate normal densities. These factorizations exploit properties of the multivariate Brownian motion rate matrix $R$ and Phylogenetic Covariance Matrix $P$, as well as the relation between them. 
+
+The full phylogenetic likelihood can be written as
+
+\begin{align*}
+&|2\pi(R \otimes P)|^{-\frac{1}{2}}e^{-\frac{1}{2}(x-\mu)^T(R \otimes P)^{-1}(x-\mu)}\\
+\end{align*}
+
+Which is the recognizable probability density function of a multivariate normal distribution. The $\otimes$ symbols represents the Kronecker product, which multiples $R$ and $P$ to form a covariance matrix. Meanwhile, $x$ represents the states at the tips, stacked into a vector according to the order appropriate that in which the Kronecker product is taken. The symbol $\mu$ likewise represents the state at the root of the tree, repeated also in the appropriate order.
+
+The two algorithms used here to diagonalize the matrices $R$ and $P$ are Cholesky factorization and the Felsenstein Pruning algorithm, respectively. Cholesky factorization provides the decomposition $R = LIL^T$, where $L$ is the lower Cholesky factor and $I$ is the identity. The Felsenstein pruning algorithm, meanwhile, decomposes the phylogenetic covariance matrix $P$ into $C^{-1}QC^{-T}$, where Q is a matrix representing the branch lengths of each independent contrast, and C is the matrix that transforms the tip characters into independent contrasts. This decomposition is often represented as a post-order tree traversal, but can also be expressed and performed linear algebraically, operating purely on the phylogenetic covariance matrix.
+
+Substituting these relations into the above expression, we obtain:
+
+\begin{align*}
+\\
+&|2\pi(LIL^T \otimes C^{-1}QC^{-T})|^{-\frac{1}{2}}e^{-\frac{1}{2}(x-\mu)^T(LIL^T \otimes C^{-1}QC^{-T})^{-1}(x-\mu)}\\
+\\
+\end{align*}
+
+Using the properties of Kronecker products, we can rewrite this as:
+
+\begin{align*}
+&((2\pi)^{nm}|LIL^T|^m |C^{-1}QC^{-T}|^n)^{-\frac{1}{2}}e^{-\frac{1}{2}(x-\mu)^T((L \otimes C^{-1})(I \otimes Q)(L^T \otimes C^{-T}))^{-1}(x-\mu)}\\
+\\
+\end{align*}
+
+Which can be further reordered and simplified:
+
+\begin{align*}
+&((2\pi)^{nm}|LIL^T|^m |C^{-1}QC^{-T}|^n)^{-\frac{1}{2}}e^{-\frac{1}{2}(x-\mu)^T(L^T \otimes C^{-T})^{-1}(I \otimes Q)^{-1}(L \otimes C^{-1})^{-1}(x-\mu)}
+\end{align*}
+\begin{align*}
+&((2\pi)^{nm}|LIL^T|^m |C^{-1}QC^{-T}|^n)^{-\frac{1}{2}}e^{-\frac{1}{2}(x-\mu)^T(L^{-T} \otimes C^{T})(I \otimes Q)^{-1}(L^{-1} \otimes C)(x-\mu)}
+\end{align*}
+\begin{align*}
+&((2\pi)^{nm}|LIL^T|^m |C^{-1}QC^{-T}|^n)^{-\frac{1}{2}}e^{-\frac{1}{2}(x-\mu)^T(L^{-1} \otimes C)^{T}(I \otimes Q)^{-1}(L^{-1} \otimes C)(x-\mu)}
+\end{align*}
+\begin{align*}
+&((2\pi)^{nm}|LIL^T|^m |C^{-1}QC^{-T}|^n)^{-\frac{1}{2}}e^{-\frac{1}{2}((L^{-1} \otimes C)(x-\mu))^{T}(I \otimes Q)^{-1}(L^{-1} \otimes C)(x-\mu)}
+\end{align*}
+\begin{align*}
+&((2\pi)^{nm}|LIL^T|^m |C^{-1}QC^{-T}|^n)^{-\frac{1}{2}}e^{-\frac{1}{2}((L^{-1} \otimes C)x-(L^{-1} \otimes C)\mu))^{T}(I \otimes Q)^{-1}((L^{-1} \otimes C)x-(L^{-1} \otimes C)\mu)}\\
+\end{align*}
+
+And since
+
+\begin{align*}
+&C\mu = 0
+\end{align*}
+
+and
+
+\begin{align*}
+&(L^{-1} \otimes C)\mu = 0\\
+\\
+\end{align*}
+
+We can further simplify this into:
+
+\begin{align*}
+&((2\pi)^{nm}|LIL^T|^m |C^{-1}QC^{-T}|^n)^{-\frac{1}{2}}e^{-\frac{1}{2}((L^{-1} \otimes C)x)^{T}(I \otimes Q)^{-1}((L^{-1} \otimes C)x)}\\
+\end{align*}
+
+As $I$ and $Q$ are both diagonal matrices, we obtain in the place of our original function a multivariate normal distribution pdf whose covariance matrix is a diagonal matrix, with trait vector $x$ appropriately transformed. This allows us to compute the original density as the product of univariate normal densities (or sum of log densities), so long as we take care to propagate the appropriate quantities to the determinant. 
+
+\end{document} %transformations to the determinant

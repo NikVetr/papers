@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mvBM_manuscript_sysbio.aux
+The style file: apalike.bst
+Database file #1: sysbio_paper_references.bib
+Warning--empty journal in harmonPhylogeneticComparativeMethods2018
+Warning--empty journal in hastingsMonteCarloSampling1970
+You've used 70 entries,
+            1935 wiz_defined-function locations,
+            953 strings with 20883 characters,
+and the built_in function-call counts, 28236 in all, are:
+= -- 2808
+> -- 1063
+< -- 49
++ -- 376
+- -- 354
+* -- 2551
+:= -- 4901
+add.period$ -- 208
+call.type$ -- 70
+change.case$ -- 524
+chr.to.int$ -- 70
+cite$ -- 72
+duplicate$ -- 975
+empty$ -- 2028
+format.name$ -- 458
+if$ -- 5416
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 73
+newline$ -- 351
+num.names$ -- 210
+pop$ -- 362
+preamble$ -- 1
+purify$ -- 527
+quote$ -- 0
+skip$ -- 749
+stack$ -- 0
+substring$ -- 2394
+swap$ -- 68
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 414
+warning$ -- 2
+while$ -- 258
+width$ -- 0
+write$ -- 903
+(There were 2 warnings)

@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dissertation_lashinsky_2020.aux
+The style file: apalike.bst
+A level-1 auxiliary file: chapter0_introduction.aux
+A level-1 auxiliary file: chapter1_mvBM.aux
+A level-1 auxiliary file: chapter2_landmarks.aux
+A level-1 auxiliary file: chapter3_thresholds.aux
+A level-1 auxiliary file: chapter4_conclusion.aux
+A level-1 auxiliary file: appendix1.aux
+A level-1 auxiliary file: appendix2.aux
+A level-1 auxiliary file: appendix3.aux
+Database file #1: dissertation_references.bib
+Warning--empty journal in adamsGeometricMorphometricAnalyses2019
+Warning--empty journal in batesPackageMatrix2019
+Warning--there's a number but no volume in bayesLIIEssaySolving1763
+Warning--empty journal in bivandPackageClassInt2020
+Warning--empty journal in genzPackageMvtnorm2020
+Warning--empty journal in harmonPhylogeneticComparativeMethods2018
+Warning--empty journal in hastingsMonteCarloSampling1970
+Warning--empty journal in kenkelPackagePbivnorm2015
+Warning--empty booktitle in mahalanobisGeneralizedDistanceStatistics1936
+Warning--there's a number but no series in mayrNewPhilosophyBiology1988
+You've used 226 entries,
+            1935 wiz_defined-function locations,
+            1909 strings with 57673 characters,
+and the built_in function-call counts, 92874 in all, are:
+= -- 9136
+> -- 3802
+< -- 148
++ -- 1377
+- -- 1284
+* -- 8420
+:= -- 16156
+add.period$ -- 673
+call.type$ -- 226
+change.case$ -- 1760
+chr.to.int$ -- 221
+cite$ -- 236
+duplicate$ -- 3187
+empty$ -- 6482
+format.name$ -- 1614
+if$ -- 17786
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 236
+newline$ -- 1126
+num.names$ -- 678
+pop$ -- 1295
+preamble$ -- 1
+purify$ -- 1772
+quote$ -- 0
+skip$ -- 2433
+stack$ -- 0
+substring$ -- 7482
+swap$ -- 260
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1334
+warning$ -- 10
+while$ -- 816
+width$ -- 0
+write$ -- 2907
+(There were 10 warnings)

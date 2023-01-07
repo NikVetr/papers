@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mvBM_manuscript_plosone.aux
+The style file: apalike.bst
+Database file #1: plosone_paper_references.bib
+Warning--empty journal in batesPackageMatrix2019
+Warning--empty journal in genzPackageMvtnorm2020
+Warning--empty journal in hastingsMonteCarloSampling1970
+Warning--empty journal in kenkelPackagePbivnorm2015
+You've used 66 entries,
+            1935 wiz_defined-function locations,
+            953 strings with 20152 characters,
+and the built_in function-call counts, 27055 in all, are:
+= -- 2637
+> -- 1156
+< -- 42
++ -- 417
+- -- 394
+* -- 2462
+:= -- 4743
+add.period$ -- 194
+call.type$ -- 66
+change.case$ -- 523
+chr.to.int$ -- 65
+cite$ -- 70
+duplicate$ -- 922
+empty$ -- 1858
+format.name$ -- 486
+if$ -- 5154
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 68
+newline$ -- 329
+num.names$ -- 198
+pop$ -- 393
+preamble$ -- 1
+purify$ -- 527
+quote$ -- 0
+skip$ -- 706
+stack$ -- 0
+substring$ -- 2098
+swap$ -- 70
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 390
+warning$ -- 4
+while$ -- 234
+width$ -- 0
+write$ -- 844
+(There were 4 warnings)

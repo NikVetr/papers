@@ -1,0 +1,431 @@
+\begin{thebibliography}{}
+
+\bibitem[Allentoft et~al., 2012]{allentoftHalflifeDNABone2012}
+Allentoft, M.~E., Collins, M., Harker, D., Haile, J., Oskam, C.~L., Hale,
+  M.~L., Campos, P.~F., Samaniego, J.~A., Gilbert, M. T.~P., and Willerslev, E.
+  (2012).
+\newblock The half-life of {{DNA}} in bone: {{Measuring}} decay kinetics in 158
+  dated fossils.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  279(1748):4724--4733.
+
+\bibitem[{\'A}lvarez-Carretero et~al.,
+  2019]{alvarez-carreteroBayesianEstimationSpecies2019}
+{\'A}lvarez-Carretero, S., Goswami, A., Yang, Z., and Dos~Reis, M. (2019).
+\newblock Bayesian estimation of species divergence times using correlated
+  quantitative characters.
+\newblock {\em Systematic Biology}, 68(6):967--986.
+
+\bibitem[Arnold et~al., 2008]{arnoldUnderstandingEvolutionStability2008}
+Arnold, S.~J., B{\"u}rger, R., Hohenlohe, P.~A., Ajie, B.~C., and Jones, A.~G.
+  (2008).
+\newblock Understanding the {{Evolution}} and {{Stability}} of the
+  {{G}}-{{Matrix}}.
+\newblock {\em Evolution; international journal of organic evolution},
+  62(10):2451--2461.
+
+\bibitem[Beaulieu et~al., 2012]{beaulieuModelingStabilizingSelection2012}
+Beaulieu, J.~M., Jhwueng, D.-C., Boettiger, C., and O'Meara, B.~C. (2012).
+\newblock Modeling {{Stabilizing Selection}}: {{Expanding}} the
+  {{Ornstein}}\textendash{{Uhlenbeck Model}} of {{Adaptive Evolution}}.
+\newblock {\em Evolution}, 66(8):2369--2383.
+
+\bibitem[Brazeau, 2011]{brazeauProblematicCharacterCoding2011}
+Brazeau, M.~D. (2011).
+\newblock Problematic character coding methods in morphology and their effects.
+\newblock {\em Biological Journal of the Linnean Society}, 104(3):489--498.
+
+\bibitem[Brown et~al., 2009]{brownWhenTreesGrow2009}
+Brown, J.~M., Hedtke, S.~M., Lemmon, A.~R., and Lemmon, E.~M. (2009).
+\newblock When trees grow too long: {{Investigating}} the causes of highly
+  inaccurate {{Bayesian}} branch-length estimates.
+\newblock {\em Systematic Biology}, 59(2):145--161.
+
+\bibitem[Brown, 1828]{brownXXVIIBriefAccount1828}
+Brown, R. (1828).
+\newblock {{XXVII}}. {{A}} brief account of microscopical observations made in
+  the months of {{June}}, {{July}} and {{August}} 1827, on the particles
+  contained in the pollen of plants; and on the general existence of active
+  molecules in organic and inorganic bodies.
+\newblock {\em The Philosophical Magazine}, 4(21):161--173.
+
+\bibitem[Butler and King, 2004]{butlerPhylogeneticComparativeAnalysis2004}
+Butler, M.~A. and King, A.~A. (2004).
+\newblock Phylogenetic comparative analysis: {{A}} modeling approach for
+  adaptive evolution.
+\newblock {\em The American Naturalist}, 164(6):683--695.
+
+\bibitem[Caetano and Harmon, 2019]{caetanoEstimatingCorrelatedRates2019}
+Caetano, D.~S. and Harmon, L.~J. (2019).
+\newblock Estimating correlated rates of trait evolution with uncertainty.
+\newblock {\em Systematic biology}, 68(3):412--429.
+
+\bibitem[Cheverud, 1996]{cheverudDevelopmentalIntegrationEvolution1996}
+Cheverud, J.~M. (1996).
+\newblock Developmental integration and the evolution of pleiotropy.
+\newblock {\em American Zoologist}, 36(1):44--50.
+
+\bibitem[Collins et~al., 2002]{collinsSurvivalOrganicMatter2002}
+Collins, M.~J., {Nielsen{\textendash}Marsh}, C.~M., Hiller, J., Smith, C.~I.,
+  Roberts, J.~P., Prigodich, R.~V., Wess, T.~J., Csapo, J., Millard, A.~R., and
+  {Turner{\textendash}Walker}, G. (2002).
+\newblock The survival of organic matter in bone: {{A}} review.
+\newblock {\em Archaeometry}, 44(3):383--394.
+
+\bibitem[Einstein, 1956]{einsteinInvestigationsTheoryBrownian1956}
+Einstein, A. (1956).
+\newblock {\em Investigations on the {{Theory}} of the {{Brownian Movement}}}.
+\newblock {Courier Corporation}.
+
+\bibitem[Felsenstein,
+  1973]{felsensteinMaximumlikelihoodEstimationEvolutionary1973}
+Felsenstein, J. (1973).
+\newblock Maximum-likelihood estimation of evolutionary trees from continuous
+  characters.
+\newblock {\em American Journal of Human Genetics}, 25(5):471--492.
+
+\bibitem[Felsenstein, 1981]{felsensteinEvolutionaryTreesGene1981}
+Felsenstein, J. (1981).
+\newblock Evolutionary trees from gene frequencies and quantitative characters:
+  {{Finding}} maximum likelihood estimates.
+\newblock {\em Evolution}, 35(6):1229--1242.
+
+\bibitem[Felsenstein, 1985]{felsensteinPhylogeniesComparativeMethod1985}
+Felsenstein, J. (1985).
+\newblock Phylogenies and the comparative method.
+\newblock {\em The American Naturalist}, 125(1):1--15.
+
+\bibitem[Felsenstein, 1988]{felsensteinPhylogeniesQuantitativeCharacters1988a}
+Felsenstein, J. (1988).
+\newblock Phylogenies and quantitative characters.
+\newblock {\em Annual Review of Ecology and Systematics}, 19(1):445--471.
+
+\bibitem[Felsenstein, 2004]{felsensteinInferringPhylogenies2004}
+Felsenstein, J. (2004).
+\newblock {\em Inferring Phylogenies}.
+\newblock {Sinauer Associates}, {Sunderland, Mass}.
+
+\bibitem[Felsenstein, 2005]{felsensteinUsingQuantitativeGenetic2005}
+Felsenstein, J. (2005).
+\newblock Using the quantitative genetic threshold model for inferences between
+  and within species.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 360(1459):1427--1434.
+
+\bibitem[Felsenstein, 2012]{felsensteinComparativeMethodBoth2012}
+Felsenstein, J. (2012).
+\newblock A {{Comparative Method}} for {{Both Discrete}} and {{Continuous
+  Characters Using}} the {{Threshold Model}}.
+\newblock {\em The American Naturalist}, 179(2):145--156.
+
+\bibitem[Fischer et~al., 2016]{fischerPlasticityEvolutionCorrelated2016}
+Fischer, E.~K., Ghalambor, C.~K., and Hoke, K.~L. (2016).
+\newblock Plasticity and evolution in correlated suites of traits.
+\newblock {\em Journal of evolutionary biology}, 29(5):991--1002.
+
+\bibitem[{Garcia-Cruz} and Sosa,
+  2006]{garcia-cruzCodingQuantitativeCharacter2006}
+{Garcia-Cruz}, J. and Sosa, V. (2006).
+\newblock Coding quantitative character data for phylogenetic analysis: {{A}}
+  comparison of five methods.
+\newblock {\em Systematic Botany}, 31(2):302--309.
+
+\bibitem[Hansen and Martins,
+  1996]{hansenTranslatingMicroevolutionaryProcess1996}
+Hansen, T.~F. and Martins, E.~P. (1996).
+\newblock Translating between microevolutionary process and macroevolutionary
+  patterns: {{The}} correlation structure of interspecific data.
+\newblock {\em Evolution}, 50(4):1404--1417.
+
+\bibitem[Harmon, 2018]{harmonPhylogeneticComparativeMethods2018}
+Harmon, L. (2018).
+\newblock Phylogenetic comparative methods: {{Learning}} from trees.
+
+\bibitem[Hastings, 1970]{hastingsMonteCarloSampling1970}
+Hastings, W.~K. (1970).
+\newblock Monte {{Carlo}} sampling methods using {{Markov}} chains and their
+  applications.
+
+\bibitem[H{\"o}hna et~al., 2014]{hohnaProbabilisticGraphicalModel2014}
+H{\"o}hna, S., Heath, T.~A., Boussau, B., Landis, M.~J., Ronquist, F., and
+  Huelsenbeck, J.~P. (2014).
+\newblock Probabilistic graphical model representation in phylogenetics.
+\newblock {\em Systematic biology}, 63(5):753--771.
+
+\bibitem[H{\"o}hna et~al., 2016]{hohnaRevBayesBayesianPhylogenetic2016a}
+H{\"o}hna, S., Landis, M.~J., Heath, T.~A., Boussau, B., Lartillot, N., Moore,
+  B.~R., Huelsenbeck, J.~P., and Ronquist, F. (2016).
+\newblock {{RevBayes}}: {{Bayesian}} phylogenetic inference using graphical
+  models and an interactive model-specification language.
+\newblock {\em Systematic Biology}, 65(4):726--736.
+
+\bibitem[Holland, 2013]{hollandRiseStatisticalPhylogenetics2013}
+Holland, B.~R. (2013).
+\newblock The rise of statistical phylogenetics.
+\newblock {\em Australian \& New Zealand Journal of Statistics},
+  55(3):205--220.
+
+\bibitem[Howells, 1973]{howellsCranialVariationMan1973}
+Howells, W.~W. (1973).
+\newblock Cranial variation in man: {{A}} study by multivariate analysis of
+  patterns of difference among recent human populations.
+\newblock {\em Peabody Museum of Archaeology and Ethnology, Harvard Univ.}
+
+\bibitem[Howells, 1989]{howellsSkullShapesMap1989}
+Howells, W.~W. (1989).
+\newblock Skull shapes and the map: {{Craniometric}} analyses in the dispersion
+  of modern {{Homo}}.
+\newblock {\em Papers of the Peabody museum of Archaeology and Ethnology}, 79.
+
+\bibitem[Howells, 1995]{howellsWhoWhoSkulls1995}
+Howells, W.~W. (1995).
+\newblock Who's who in skulls: {{Ethnic}} identification of crania from
+  measurements.
+\newblock {\em Papers of the Peabody Museum of Archaeology and Ethnology}, 82.
+
+\bibitem[Huelsenbeck and Rannala,
+  2004]{huelsenbeckFrequentistPropertiesBayesian2004}
+Huelsenbeck, J.~P. and Rannala, B. (2004).
+\newblock Frequentist properties of {{Bayesian}} posterior probabilities of
+  phylogenetic trees under simple and complex substitution models.
+\newblock {\em Systematic biology}, 53(6):904--913.
+
+\bibitem[Jukes and Cantor, 1969]{jukesEvolutionProteinMolecules1969}
+Jukes, T.~H. and Cantor, C.~R. (1969).
+\newblock Evolution of protein molecules.
+\newblock {\em Mammalian protein metabolism}, 3(21):132.
+
+\bibitem[Klingenberg et~al.,
+  2012]{klingenbergDevelopmentalPlasticityMorphological2012}
+Klingenberg, C., Duttke, S., Whelan, S., and Kim, M. (2012).
+\newblock Developmental plasticity, morphological variation and evolvability:
+  {{A}} multilevel analysis of morphometric integration in the shape of
+  compound leaves.
+\newblock {\em Journal of evolutionary biology}, 25(1):115--129.
+
+\bibitem[Klingenberg,
+  2008]{klingenbergMorphologicalIntegrationDevelopmental2008}
+Klingenberg, C.~P. (2008).
+\newblock Morphological integration and developmental modularity.
+\newblock {\em Annual review of ecology, evolution, and systematics},
+  39:115--132.
+
+\bibitem[Klingenberg, 2014]{klingenbergStudyingMorphologicalIntegration2014}
+Klingenberg, C.~P. (2014).
+\newblock Studying morphological integration and modularity at multiple levels:
+  {{Concepts}} and analysis.
+\newblock {\em Phil. Trans. R. Soc. B}, 369(1649):20130249.
+
+\bibitem[Kuhner and Felsenstein, 1994]{kuhnerSimulationComparisonPhylogeny1994}
+Kuhner, M.~K. and Felsenstein, J. (1994).
+\newblock A simulation comparison of phylogeny algorithms under equal and
+  unequal evolutionary rates.
+\newblock {\em Molecular Biology and Evolution}, 11(3):459--468.
+
+\bibitem[Lande, 1976]{landeNaturalSelectionRandom1976}
+Lande, R. (1976).
+\newblock Natural {{Selection}} and {{Random Genetic Drift}} in {{Phenotypic
+  Evolution}}.
+\newblock {\em Evolution}, 30(2):314--334.
+
+\bibitem[Lande, 1979]{landeQuantitativeGeneticAnalysis1979}
+Lande, R. (1979).
+\newblock Quantitative {{Genetic Analysis}} of {{Multivariate Evolution}},
+  {{Applied}} to {{Brain}}: {{Body Size Allometry}}.
+\newblock {\em Evolution}, 33(1):402--416.
+
+\bibitem[Lee and Palci, 2015]{leeMorphologicalPhylogeneticsGenomic2015}
+Lee, M.~S. and Palci, A. (2015).
+\newblock Morphological phylogenetics in the genomic age.
+\newblock {\em Current Biology}, 25(19):R922--R929.
+
+\bibitem[Lewis, 2001]{lewisLikelihoodApproachEstimating2001}
+Lewis, P.~O. (2001).
+\newblock A likelihood approach to estimating phylogeny from discrete
+  morphological character data.
+\newblock {\em Systematic biology}, 50(6):913--925.
+
+\bibitem[Li et~al., 2008]{liWorldwideHumanRelationships2008}
+Li, J.~Z., Absher, D.~M., Tang, H., Southwick, A.~M., Casto, A.~M.,
+  Ramachandran, S., Cann, H.~M., Barsh, G.~S., Feldman, M., and
+  {Cavalli-Sforza}, L.~L. (2008).
+\newblock Worldwide human relationships inferred from genome-wide patterns of
+  variation.
+\newblock {\em science}, 319(5866):1100--1104.
+
+\bibitem[Mallick et~al., 2016]{mallickSimonsGenomeDiversity2016}
+Mallick, S., Li, H., Lipson, M., Mathieson, I., Gymrek, M., Racimo, F., Zhao,
+  M., Chennagiri, N., Nordenfelt, S., and Tandon, A. (2016).
+\newblock The {{Simons}} genome diversity project: 300 genomes from 142 diverse
+  populations.
+\newblock {\em Nature}, 538(7624):201--206.
+
+\bibitem[Mitteroecker and Bookstein,
+  2007]{mitteroeckerConceptualStatisticalRelationship2007}
+Mitteroecker, P. and Bookstein, F. (2007).
+\newblock The conceptual and statistical relationship between modularity and
+  morphological integration.
+\newblock {\em Systematic biology}, 56(5):818--836.
+
+\bibitem[Neaux et~al., 2018]{neauxBasicraniumFaceAssessing2018}
+Neaux, D., Sansalone, G., Ledogar, J.~A., Ledogar, S.~H., Luk, T.~H., and Wroe,
+  S. (2018).
+\newblock Basicranium and face: {{Assessing}} the impact of morphological
+  integration on primate evolution.
+\newblock {\em Journal of human evolution}, 118:43--55.
+
+\bibitem[{Parins-Fukuchi}, 2017]{parins-fukuchiUseContinuousTraits2017}
+{Parins-Fukuchi}, C. (2017).
+\newblock Use of {{Continuous Traits Can Improve Morphological Phylogenetics}}.
+\newblock {\em Systematic biology}, 67(2):328--339.
+
+\bibitem[Parsons et~al., 2011]{parsonsConstraintOpportunityGenetic2011}
+Parsons, K.~J., M{\'a}rquez, E., and Albertson, R.~C. (2011).
+\newblock Constraint and opportunity: {{The}} genetic basis and evolution of
+  modularity in the cichlid mandible.
+\newblock {\em The American Naturalist}, 179(1):64--78.
+
+\bibitem[Pemberton et~al., 2013]{pembertonPopulationStructureComprehensive2013}
+Pemberton, T.~J., DeGiorgio, M., and Rosenberg, N.~A. (2013).
+\newblock Population structure in a comprehensive genomic data set on human
+  microsatellite variation.
+\newblock {\em G3: Genes, Genomes, Genetics}, 3(5):891--907.
+
+\bibitem[Pickrell and Pritchard, 2012]{pickrellInferencePopulationSplits2012}
+Pickrell, J.~K. and Pritchard, J.~K. (2012).
+\newblock Inference of {{Population Splits}} and {{Mixtures}} from
+  {{Genome}}-{{Wide Allele Frequency Data}}.
+\newblock {\em PLoS Genetics}, 8(11):e1002967.
+
+\bibitem[Pickrell and Reich, 2014]{pickrellNewHistoryGeography2014}
+Pickrell, J.~K. and Reich, D. (2014).
+\newblock Toward a new history and geography of human genes informed by ancient
+  {{DNA}}.
+\newblock {\em Trends in Genetics}, 30(9):377--389.
+
+\bibitem[Plummer et~al., 2006]{plummerCODAConvergenceDiagnosis2006}
+Plummer, M., Best, N., Cowles, K., and Vines, K. (2006).
+\newblock {{CODA}}: {{Convergence}} diagnosis and output analysis for {{MCMC}}.
+\newblock {\em R News}, 6(1):7--11.
+
+\bibitem[Reusch and Blanckenhorn, 1998]{reuschQuantitativeGeneticsDung1998}
+Reusch, T. and Blanckenhorn, W.~U. (1998).
+\newblock Quantitative genetics of the dung fly {{Sepsis}} cynipsea:
+  {{Cheverud}}'s conjecture revisited.
+\newblock {\em Heredity}, 81(1):111--119.
+
+\bibitem[Revell, 2012]{revellPhytoolsPackagePhylogenetic2012}
+Revell, L.~J. (2012).
+\newblock Phytools: {{An R}} package for phylogenetic comparative biology (and
+  other things).
+\newblock {\em Methods in ecology and evolution}, 3(2):217--223.
+
+\bibitem[Revell, 2014]{revellAncestralCharacterEstimation2014a}
+Revell, L.~J. (2014).
+\newblock Ancestral {{Character Estimation Under}} the {{Threshold Model}} from
+  {{Quantitative Genetics}}.
+\newblock {\em Evolution}, 68(3):743--759.
+
+\bibitem[Revell et~al., 2007]{revellPhylogeneticApproachDetermining2007}
+Revell, L.~J., Harmon, L.~J., Langerhans, R.~B., and Kolbe, J.~J. (2007).
+\newblock A phylogenetic approach to determining the importance of constraint
+  on phenotypic evolution in the neotropical lizard {{Anolis}} cristatellus.
+\newblock {\em Evolutionary Ecology Research}, 9(2):261--282.
+
+\bibitem[Robinson and Foulds, 1981]{robinsonComparisonPhylogeneticTrees1981}
+Robinson, D. and Foulds, L. (1981).
+\newblock Comparison of phylogenetic trees.
+\newblock {\em Mathematical Biosciences}, 53(1-2):131--147.
+
+\bibitem[Roff, 1995]{roffEstimationGeneticCorrelations1995}
+Roff, D.~A. (1995).
+\newblock The estimation of genetic correlations from phenotypic correlations:
+  {{A}} test of {{Cheverud}}'s conjecture.
+\newblock {\em Heredity}, 74(5):481--490.
+
+\bibitem[Roseman, 2016]{rosemanRandomGeneticDrift2016}
+Roseman, C.~C. (2016).
+\newblock Random genetic drift, natural selection, and noise in human cranial
+  evolution.
+\newblock {\em American journal of physical anthropology}, 160(4):582--592.
+
+\bibitem[Sodini et~al., 2018]{sodiniComparisonGenotypicPhenotypic2018}
+Sodini, S.~M., Kemper, K.~E., Wray, N.~R., and Trzaskowski, M. (2018).
+\newblock Comparison of genotypic and phenotypic correlations: {{Cheverud}}'s
+  conjecture in humans.
+\newblock {\em Genetics}, 209(3):941--948.
+
+\bibitem[Team, 2013]{rcoreteamLanguageEnvironmentStatistical2013}
+Team, R.~C. (2013).
+\newblock {\em R: {{A}} Language and Environment for Statistical Computing}.
+\newblock {R Foundation for Statistical Computing}.
+
+\bibitem[Thorpe, 1984]{thorpeCodingMorphometricCharacters1984}
+Thorpe, R.~S. (1984).
+\newblock Coding {{Morphometric Characters}} for {{Constructing Distance Wagner
+  Networks}}.
+\newblock {\em Evolution}, 38(2):244--255.
+
+\bibitem[Waitt and Levin, 1998]{waittGeneticPhenotypicCorrelations1998}
+Waitt, D.~E. and Levin, D.~A. (1998).
+\newblock Genetic and phenotypic correlations in plants: {{A}} botanical test
+  of {{Cheverud}}'s conjecture.
+\newblock {\em Heredity}, 80(3):310--319.
+
+\bibitem[Weaver, 2018]{weaverNeutralTheoryEvolution2018a}
+Weaver, T. (2018).
+\newblock Neutral theory and the evolution of human physical form: {{An}}
+  introduction to models and applications.
+\newblock {\em J. Anthropol. Sci}, 96:7--26.
+
+\bibitem[Weaver et~al., 2007]{weaverWereNeandertalModern2007}
+Weaver, T.~D., Roseman, C.~C., and Stringer, C.~B. (2007).
+\newblock Were neandertal and modern human cranial differences produced by
+  natural selection or genetic drift?
+\newblock {\em Journal of human evolution}, 53(2):135--145.
+
+\bibitem[Weaver and Stringer, 2015]{weaverUnconstrainedCranialEvolution2015}
+Weaver, T.~D. and Stringer, C.~B. (2015).
+\newblock Unconstrained cranial evolution in {{Neandertals}} and modern humans
+  compared to common chimpanzees.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  282(1817):20151519.
+
+\bibitem[Wen and Nakhleh, 2018]{wenCoestimatingReticulatePhylogenies2018}
+Wen, D. and Nakhleh, L. (2018).
+\newblock Coestimating {{Reticulate Phylogenies}} and {{Gene Trees}} from
+  {{Multilocus Sequence Data}}.
+\newblock {\em Systematic Biology}, 67(3):439--457.
+
+\bibitem[Wen et~al., 2016]{wenBayesianInferenceReticulate2016}
+Wen, D., Yu, Y., and Nakhleh, L. (2016).
+\newblock Bayesian {{Inference}} of {{Reticulate Phylogenies}} under the
+  {{Multispecies Network Coalescent}}.
+\newblock {\em PLoS Genetics}, 12(5):e1006006.
+
+\bibitem[Wiens, 2001]{wiensCharacterAnalysisMorphological2001}
+Wiens, J.~J. (2001).
+\newblock Character {{Analysis}} in {{Morphological Phylogenetics}}:
+  {{Problems}} and {{Solutions}}.
+\newblock {\em Systematic Biology}, 50(5):689--699.
+
+\bibitem[Wright et~al., 2016]{wrightModelingCharacterChange2016}
+Wright, A.~M., Lloyd, G.~T., and Hillis, D.~M. (2016).
+\newblock Modeling {{Character Change Heterogeneity}} in {{Phylogenetic
+  Analyses}} of {{Morphology}} through the {{Use}} of {{Priors}}.
+\newblock {\em Systematic Biology}, 65(4):602--611.
+
+\bibitem[Young and Badyaev, 2006]{youngEvolutionaryPersistencePhenotypic2006}
+Young, R.~L. and Badyaev, A.~V. (2006).
+\newblock {Evolutionary persistence of phenotypic integration: Influence of
+  developmental and functional relationships on complex trait evolution}.
+\newblock {\em Evolution}, 60(6):1291--1299.
+
+\bibitem[Yule, 1925]{yuleMathematicalTheoryEvolution1925}
+Yule, G.~U. (1925).
+\newblock A {{Mathematical Theory}} of {{Evolution}}, {{Based}} on the
+  {{Conclusions}} of {{Dr}}. {{J}}. {{C}}. {{Willis}}, {{F}}.{{R}}.{{S}}.
+\newblock {\em Philosophical Transactions of the Royal Society of London.
+  Series B, Containing Papers of a Biological Character}, 213:21--87.
+
+\end{thebibliography}

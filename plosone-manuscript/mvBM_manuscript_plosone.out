@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section*.2}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection*.3}{Multivariate Character Evolution}{section*.2}% 2
+\BOOKMARK [2][-]{subsection*.4}{Relation to Other Models and Methods}{section*.2}% 3
+\BOOKMARK [2][-]{subsection*.5}{Discrete Dental Traits}{section*.2}% 4
+\BOOKMARK [1][-]{section*.6}{Materials and Methods}{}% 5
+\BOOKMARK [2][-]{subsection*.7}{Empirical Data}{section*.6}% 6
+\BOOKMARK [2][-]{subsection*.8}{Data Filtration}{section*.6}% 7
+\BOOKMARK [2][-]{subsection*.9}{Hierarchical Phylogenetic Likelihood}{section*.6}% 8
+\BOOKMARK [2][-]{subsection*.10}{Two-Step Algorithm}{section*.6}% 9
+\BOOKMARK [2][-]{subsection*.11}{Iterative Optimization}{section*.6}% 10
+\BOOKMARK [2][-]{subsection*.12}{Stochastic MNAR Imputation}{section*.6}% 11
+\BOOKMARK [2][-]{subsection*.13}{Additional Correlation Matrix Processing}{section*.6}% 12
+\BOOKMARK [2][-]{subsection*.14}{Bayesian Inference}{section*.6}% 13
+\BOOKMARK [2][-]{subsection*.15}{Simulation Experiments}{section*.6}% 14
+\BOOKMARK [1][-]{section*.16}{Results}{}% 15
+\BOOKMARK [1][-]{section*.17}{Discussion}{}% 16
+\BOOKMARK [1][-]{section*.20}{Figures}{}% 17
+\BOOKMARK [1][-]{section*.30}{Tables}{}% 18
+\BOOKMARK [1][-]{section*.31}{Supplemental Figures}{}% 19

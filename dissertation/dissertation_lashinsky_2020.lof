@@ -1,0 +1,49 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Posterior Predictive Distribution of a Hierarchical OU Model}}{7}{figure.caption.4}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Posterior Distribution of a Middle Burst Brownian Motion Model}}{9}{figure.caption.5}% 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Variation in Expected Disparity Through Time Under Varying Middle Bursts}}{10}{figure.caption.6}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Visualizing Brownian Motion in One and Two Dimensions}}{44}{figure.caption.11}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A Simple Rooted Tree with Three Tips}}{45}{figure.caption.12}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Visualizing the Pulley Principle Under mvBM}}{45}{figure.caption.13}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces The Pruning Algorithm Applied to a Tree}}{45}{figure.caption.14}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Calibration Curves for the Brownian Motion Simulation Study, Idealized Conditions}}{46}{figure.caption.15}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Cumulative Average Resolution Curves for the Brownian Motion Simulation Study, Idealized Conditions}}{47}{figure.caption.16}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Maximum Clade Credibility Trees for Empirical Analyses of Howells' Data}}{48}{figure.caption.17}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Visualizing Sensitivity to Researcher Degrees of Freedom in Analysis of Howells' Data}}{49}{figure.caption.18}% 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Calibration Curves for the Brownian Motion Simulation Study, Empirically Parameterized Conditions}}{50}{figure.caption.19}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Cumulative Average Resolution Curves for the Brownian Motion Simulation Study, Empirically Parameterized Conditions}}{50}{figure.caption.20}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Visualizing Results of Model-Based Phylogenetic Analyses of Catarrhine Landmark Data}}{79}{figure.caption.21}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Visualizing Results of Heuristic Phylogenetic Analyses of Catarrhine Landmark Data}}{80}{figure.caption.22}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Visualizing Results of Empirically Parameterized Simulation Study Relative to Empirical Result}}{81}{figure.caption.23}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Rate Variation in Catarrhine Cranial Evolution}}{82}{figure.caption.24}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Evaluating Cheverud's Conjecture: Does an Inferred Rate Matrix Resemble Within-Group Patterns of Variation and Covariation?}}{83}{figure.caption.25}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Querying the Simulation Experiment for Concordance in Phylogenetic Error}}{83}{figure.caption.26}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Discrete Dental Missingness Visualization}}{114}{figure.caption.29}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Approximation of Multivariate Normal Integral by Bivariate Normal Integrals}}{115}{figure.caption.30}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces TSAR-MBOP Flowchart}}{116}{figure.caption.31}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Optimization Output from Four Runs of Discrete Dental Analysis}}{116}{figure.caption.32}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Top Four Tree Topologies from Discrete Dental Phylogenetic Analysis}}{117}{figure.caption.33}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Estimated Rates and Correlations of Discrete Dental Evolution}}{117}{figure.caption.34}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Optimization Output for TSAR-MBOP Simulation Study}}{118}{figure.caption.35}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Violin Plots of Estimated State-Dependent Missing Probabilities}}{119}{figure.caption.36}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Calibration Curves for TSAR-MBOP Simulation Study}}{120}{figure.caption.37}% 
+\contentsline {figure}{\numberline {S4.1}{\ignorespaces Varying the Location of a Population Mean Under the Univariate Threshold Model}}{126}{figure.caption.38}% 
+\contentsline {figure}{\numberline {S4.2}{\ignorespaces Varying the Location of a Threshold Under the Univariate Threshold Model}}{126}{figure.caption.39}% 
+\contentsline {figure}{\numberline {S4.3}{\ignorespaces Univariate Brownian Motion Under the Threshold Model}}{127}{figure.caption.40}% 
+\contentsline {figure}{\numberline {S4.4}{\ignorespaces Varying the Location of a Population Mean Under the Bivariate Threshold Model}}{127}{figure.caption.41}% 
+\contentsline {figure}{\numberline {S4.5}{\ignorespaces Varying the Location of Two Thresholds Under the Bivariate Threshold Model}}{128}{figure.caption.42}% 
+\contentsline {figure}{\numberline {S4.6}{\ignorespaces Varying the Location of a Correlation Coefficient Under the Bivariate Threshold Model}}{128}{figure.caption.43}% 
+\contentsline {figure}{\numberline {S4.7}{\ignorespaces Bivariate Brownian Motion Under the Threshold Model}}{129}{figure.caption.44}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Association Between Euclidean Distances Along Eigenvectors and Patristic Distances}}{133}{figure.caption.45}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Expected Valid Sliding Window Width for Correlation Matrix Across Dimensions}}{150}{figure.caption.46}% 
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Sampling from the Prior with a Novel Proposal Distribution}}{151}{figure.caption.47}% 
+\contentsline {figure}{\numberline {B.3}{\ignorespaces 10 x 10 Correlation Matrix Used in Simulation Experiment}}{151}{figure.caption.48}% 
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Sampling from the Posterior with a Novel Proposal Distribution}}{152}{figure.caption.49}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Truncated Multivariate Brownian Motion in the Context of Biogeographic Diffusion}}{158}{figure.caption.50}% 

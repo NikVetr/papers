@@ -1,0 +1,245 @@
+%\documentclass[12pt,draftcls]{ucdavisthesis}
+\documentclass[12pt,finalcls]{ucdavisthesis}
+
+% PLEASE READ THE MANUAL - ucdavisthesis.pdf (in the package installation directory)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%               LATEX COMMANDS FOR DOCUMENT SETUP                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\usepackage{bookmark}
+\usepackage[us,nodayofweek,12hr]{datetime}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage[titletoc,title]{appendix}
+%\usepackage[square,comma,numbers,sort&compress]{natbib}
+%\usepackage{hypernat}
+% Other useful packages to try
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+%
+% Different fonts to try (uncomment only fontenc and one font at a time)
+% (you may need to install these first)
+%\usepackage[T1]{fontenc} %enable fontenc package if using one of the fonts below
+%\usepackage[adobe-utopia]{mathdesign}
+%\usepackage{tgschola}
+%\usepackage{tgbonum}
+%\usepackage{tgpagella}
+%\usepackage{tgtermes}
+%\usepackage{fourier}
+%\usepackage{fouriernc}
+%\usepackage{kmath,kerkis}
+%\usepackage{kpfonts}
+%\usepackage[urw-garamond]{mathdesign}
+%\usepackage[bitstream-charter]{mathdesign}
+%\usepackage[sc]{mathpazo}
+%\usepackage{mathptmx}
+%\usepackage[varg]{txfonts}
+
+%% Mike's Packages:
+
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue]{hyperref}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+
+\usepackage{eso-pic}
+\usepackage{longtable}
+\usepackage[width=1\textwidth]{caption}
+
+%\usepackage{tikz}
+%\usetikzlibrary{backgrounds,calc}
+%\usepackage{media9}
+%\usepackage{embedfile}
+%\addmediapath{figures}
+\usepackage{movie15}
+%\usepackage{multimedia}
+%\usepackage{tikz}
+%\usepackage{placeins}
+%\usepackage{marvosym}
+%\usepackage[usenames,dvipsnames,table]{xcolor}
+%\usepackage{colortbl}
+%\usepackage{booktabs}
+%\usepackage{graphicx}
+%\usepackage{framed}
+%\usepackage{setspace}
+%\usepackage{xspace}
+%\usepackage[labelfont=bf]{caption}
+%\usepackage{verbatim}
+%\usepackage{paralist}
+%\usepackage{algorithm}
+%\usepackage{algpseudocode}
+%\usepackage{wrapfig}
+%\usepackage[font=footnotesize,labelfont=bf,justification=justified,singlelinecheck=false]{caption}
+%\usepackage{titlesec}
+%\usepackage{natbib}
+%\usepackage{longtable}
+%\usepackage{tabularx}
+%\usepackage{tabulary}
+%\usepackage{multirow}
+%\usepackage{lipsum}
+%\usepackage{mathpazo}
+%\usepackage{authblk}
+%\usepackage{nameref}
+%\usepackage{cancel}
+%\usepackage{commath}
+%\usepackage{xspace}
+%\usepackage{dsfont}
+%\usepackage{cuted}
+%\usepackage{fancyhdr}
+
+\makeatletter
+\newcommand{\chapterauthor}[1]{%
+  {\parindent0pt\vspace*{-25pt}%
+  \linespread{1.1}\large\scshape#1%
+  \par\nobreak\vspace*{35pt}}
+  \@afterheading%
+}
+\makeatother
+
+\makeatletter
+\renewcommand\@pnumwidth{1cm}
+\makeatother
+
+\newcommand{\opensupplement}{
+
+    \setcounter{figure}{0}
+
+    \renewcommand{\thefigure}{S\thechapter.\arabic{figure}}
+}
+
+\newcommand{\closesupplement}{%
+
+        \setcounter{figure}{0}
+    \renewcommand{\thefigure}{\thechapter.\arabic{figure}}
+     }
+
+\hyphenation{dis-ser-ta-tion blue-print man-u-script pre-par-ing fra-me-work bayes-ian bra-nch} %add hyphenation rules for words TeX doesn't know
+
+%\setlength\overfullrule{5pt}
+
+%\cftsetpnumwidth{3em}
+
+%\renewcommand{\rightmark}{\scriptsize A University of California Davis\ldots \hfill Rev.~\#1.0 \quad Compiled: \currenttime, \today}
+% a fancier running header that can be used with draftcls options
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%        DOCUMENT SETUP AND INFORMATION FOR PRELIMINARY PAGES          %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title          {Exploring and Extending Multivariate Brownian Diffusion Models \\of Phenotypic Evolution for Bayesian Phylogenetic Inference}
+%Exact title of your thesis. Indicate italics where necessary by underlining or using italics. Please capitalize the first letter of each word that would normally be capitalized in a title.
+
+\author         {Nick Lashinsky}
+%Your full name as it appears on University records. Do not use initials.
+
+%\authordegrees  {B.A. (Vanderbilt University) 2013}
+
+\authordegrees  {\phantom{.}}
+%Indicate your previous degrees conferred.
+
+\officialmajor  {Anthropology}
+%This is your official major as it appears on your University records.
+
+\graduateprogram{Anthropology}
+%This is your official graduate program name. Used for UMI abstract.
+
+\degreeyear     {2020}
+% Indicate the year in which your degree will be officially conferred.
+
+\degreemonth    {December}
+% Indicate the month in which your degree will be officially conferred. Used for UMI abstract.
+
+%\committee{Timothy D. Weaver}{Brian R. Moore}{Shara E. Bailey}{}{}
+\committee{Timothy D. Weaver}{Shara E. Bailey}{Peter C. Wainwright}{}{}
+% These are your committee members. The command accepts up to five committee members so be sure to have five sets of braces, even if there are empties.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\copyrightyear{2020}
+%\nocopyright
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\dedication{\textsl{Dedicated to Pipsqueak \ldots \\
+%            Thank you for not dying during my PhD, despite your advanced aged, \\and for joining me in almost every location where non-service animals were welcome.}
+%            \AddToShipoutPictureFG*{\put(-15,-27){\includegraphics[width=40mm,scale=1]{figures/pooper.png}}}
+%            }
+
+\dedication{\textsl{Dedicated to Pipsqueak \ldots \\
+            Thank you for not dying during my PhD, despite your advanced aged, \\and for joining me in almost every location where non-service animals were welcome.}
+            }
+            
+            
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\abstract{Paleontologists and neontologists alike desire improved methods for inferring phylogeny with morphological data, and in this work we hope to not disappoint them too greatly. An introductory section (Chapter \ref{chpt:Chapter1}) surveys our motivations for carrying out this work, and also provides a short overview of continuous character evolutionary models, as well as a short defence of the Bayesian inferential framework. Working in that framework, we explore in Chapter \ref{chpt:Chapter2} the performance of a multivariate Brownian diffusion model (mvBM) at retrieving data-generating tree topologies through an extensive simulation study across a range of idealized and empirically realistic conditions. Following that, we characterize its performance using both standard and novel diagnostic tools, further investigating the extent to which model misspecification of different stripes affects our ability to reliably do phylogenetic inference. Then, we apply this character evolutionary model to two empirical datasets: linear measurements collected from the crania of a globally distributed sample of \textit{Homo sapiens} (Chapter \ref{chpt:Chapter2}), and landmark data collected on the crania of 13 species of catarrhine primate (Chapter \ref{chpt:Chapter3}). The latter are matched to a well-resolved reference tree obtained through analysis of molecular sequence data, and so we compare the performance of our proposed multivariate Brownian model to that of univariate Brownian motion, two discrete character evolutionary models, and a varied set of more commonly used heuristic methods. To explore the nature of inferential errors apparent in this step, we also undertake a study of cranial character evolution using a relaxed morphological clock conditional on the molecular tree, which we then use to parameterize a short simulation study. Finally, in Chapter \ref{chpt:Chapter4} we apply the method to a high-dimensional dataset of discrete dental traits codified using the Arizona State University Dental Anthropology System, assuming a multivariate ordinal probit filter. As joint inference of both phylogeny and tip mean liabilities proved beyond our current computational reach, we adopted two-step approach, first optimizing the locations of tip means, thresholds, and between-trait correlations given individual-level sampling under the multivariate ordinal probit, and then conditioning on these estimates but inferring trait-specific rates in a second, phylogenetic inferential step. To assess the extent to which compromises made in the name of tractability affected our ability to infer phylogeny under this model, we performed a third and final simulation study. In addition, three appendices provide further mathematical details. The first demonstrates how a phylogenetic likelihood under mvBM  --- represented by a high-dimensional multivariate normal density --- can be factored into the product of univariate normal densities. The second describes and validates a novel, tunable proposal distribution over correlation matrices that makes both phylogenetic likelihood calculation and mixing over this especially problematic model parameter much more efficient. The third demonstrates an easy means by which ancestral character states can be sampled from the conditional multivariate normal distribution implied by their location in a tree in conjunction with the data observed at the tree's tips. The dissertation concludes with short section reflecting upon lessons learned and describing directions for possible future work.}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\acknowledgments{I owe a tremendous debt of gratitude to many parties ensconced both within and without the walls of the University of California, Davis. 
+
+Acknowledged first are my two mentors at UC-D, Tim Weaver and Brian Moore, whose long discussions --- in offices, living rooms, and pubs --- served as ample fuel to stoke the fires of my own scientific curiosity and dedication, while also providing no small measure of fun and enjoyment. Without their guidance and instruction in matters paleoanthropological and phylogenetic none of these projects would ever have left the ground, and I deeply thank them both for accepting me as their mentee. Alongside Tim and Brian, I'd be remiss not to also credit the Anthropology Department and Center for Population Biology to which they and I belonged.
+
+Next, I'd like to thank the folks at \textit{Data Science \& Informatics}, and especially Pamela Reynolds, for giving me the space, funds, and guidance to host many workshops, discussion groups, and my Applied Bayesian Statistics Research Cluster. Outside my own groups, I joined several, and so am also grateful for those riveting chats emerging from paleogroup, morphogroup, pythongroup, computational molecular evolution group, machine learning group, and others. 
+
+Many additional faculty and staff aided me on my graduate career, and so also deserve my gratitude. Peter Wainwright, for highly educational walks in forests and along beaches, for ichthyological side-projects and cluster construction services, for accepting Brian's proposal to let me serve as Bodega workshop coordinator, and for serving on both my qualifying exam and dissertation committees. Mark Grote, for reigning in my \textit{ad hoc}, shoot-from-the-hip statistical proclivities, answering hundreds of convoluted, meandering emails, and consulting on projects in fields ranging from transplant immunology to consumer dietary behavior to Bayesian phylogenetics. Nicolas Zwyns and Richard McElreath, for many fun conversations and for serving as excellent instructors during my initial TAships, as well as for freely giving their slides when it came time to teach my own courses. Teresa Steele, not only for many years of advice and insight in zooarchaeology, but also for letting me in to my first full-summer excavation. Shara Bailey, for training me in dental anthropology during my visit to New York, for lending me her data and insight for my third main dissertation chapter, as well as for providing feedback on the broader dissertation and serving on my qualifying exam and dissertation committees. Though not (yet) faculty anywhere, Mike May also deserves special mention, for his wit, wisdom, and phylogenetic expertise, as well as for acting in the unenviable role as the first person I'd typically turn to for brainstorming project ideas / solutions \& for begging for help when things went awry. 
+
+The students I instructed in my human evolutionary biology, human evolution, and primate evolution courses were all a joy to work with and teach. Thank you for putting up with my inane rambling, lame jokes, dated references, confusing labs, harsh exams, and statistical methods and theory. I wish you all the best in your future careers and endeavors!
+
+%Though not quite students, all those who joined me in 
+
+I would not have had nearly as easy a time of it without the generous financial support of several funding bodies, and so would like to thank the National Science Foundation, the University of California, Davis, and the Department of Anthropology for their assistance, along with those who funded my undergraduate education that I need not to worry myself with debts accrued then and there.
+
+My family, both immediate and extended, deserve much of the credit for those developmental process that shaped me into who I am today, and for chatting with me on my daily walks into work. Especially my mom, grandma, and grandpa. The lattermost of which needs to stop making excuses and return to reading his daily readings!
+
+As my students, friends, and colleagues know all too well, a small dog and smaller cat play a big role in my life, and their emotional support and nightly cuddles have been an excellent way to unwind, 5{\small $\bigstar$}, would recommend to friend.
+
+Friends outside Davis who either flew out to visit or go backpacking with me or who hosted me on their couches, in their spare bedrooms, or their empty houses provided vital distractions from the academic world, and I hope that those past habits can continue once more when conditions allow. Those who maintained a regular teleconferencing habit also deserve a shout-out --- thanks for keeping in touch!
+
+All the friends made at Davis and the Mayo Clinic also deserve mention here. Thank you for your friendship and thoughts, our trivia nights at pubs and our board game, video game, and movie nights at houses, the hikes you joined me on, the lengthy, meandering discussions, and the mutual accountability we provided one another in reading groups.
+
+I'd also like to thank the custodial staff at UC-Davis, who kept facilities clean, took out my trash, and always greeted me with a friendly smile and wave. 
+
+Most of all, I'd like to thank my best friend and life partner, Kate Gates. We met a few days into the PhD program, and my life's been immeasurably better since. Thank you for standing as stalwart bulwark against the frustrations of this experience, and tolerating my angry mutterings at non-compliant, non-compiling code (here's looking at you, \LaTeX). Coming home each night to hang out with you, be it in-person or remotely, formed the highlights of most of these days. By far, you're the best thing that's happened to me during this PhD, and I look forward to many more adventures to come. 
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Each chapter can be in its own file for easier editing and brought in with the \include command.
+% Then use the \includeonly command to speed compilation when working on a particular chapter.
+%%% \includeonly{ucdavisthesis_example_Chap1}
+
+\begin{document}
+
+%\newcommand{\bibfont}{\singlespacing}
+% need this command to keep single spacing in the bibliography when using natbib
+
+%\bibliographystyle{unsrtnat}
+\bibliographystyle{apalike}
+%many other bibliography styles are available (IEEEtran, mla, etc.). Use one appropriate for your field.
+
+\makeintropages %Processes/produces the preliminary pages
+
+\include{chapter0_introduction}
+\include{chapter1_mvBM}
+\include{chapter2_landmarks}
+\include{chapter3_thresholds}
+\include{chapter4_conclusion	}
+\include{appendix1}
+\include{appendix2}
+\include{appendix3}
+
+\nocite{*}
+\bibliography{dissertation_references.bib}
+
+% The UMI abstract uses square brackets!
+% \UMIabstract[The UMI abstract is submitted online as plain text. It no longer has a word limit or specific formatting. Therefore, the UMIabstract command is now deprecated.]
+
+\end{document} 
