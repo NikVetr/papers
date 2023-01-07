@@ -1,0 +1,600 @@
+\begin{thebibliography}{}
+
+\bibitem[Adams et~al., 2019]{adamsGeometricMorphometricAnalyses2019}
+Adams, D., Collyer, M., and Kaliontzopoulou, A. (2019).
+\newblock Geometric {{Morphometric Analyses}} of {{2D}}/{{3D Landmark Data}}.
+
+\bibitem[Adams et~al., 2013]{adamsFieldComesAge2013}
+Adams, D.~C., Rohlf, F.~J., and Slice, D.~E. (2013).
+\newblock A field comes of age: {{Geometric}} morphometrics in the 21st
+  century.
+\newblock {\em Hystrix}, 24(1):7.
+
+\bibitem[Allentoft et~al., 2012]{allentoftHalflifeDNABone2012}
+Allentoft, M.~E., Collins, M., Harker, D., Haile, J., Oskam, C.~L., Hale,
+  M.~L., Campos, P.~F., Samaniego, J.~A., Gilbert, M. T.~P., and Willerslev, E.
+  (2012).
+\newblock The half-life of {{DNA}} in bone: {{Measuring}} decay kinetics in 158
+  dated fossils.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  279(1748):4724--4733.
+
+\bibitem[Altekar et~al., 2004]{altekarParallelMetropolisCoupled2004}
+Altekar, G., Dwarkadas, S., Huelsenbeck, J.~P., and Ronquist, F. (2004).
+\newblock Parallel metropolis coupled {{Markov}} chain {{Monte Carlo}} for
+  {{Bayesian}} phylogenetic inference.
+\newblock {\em Bioinformatics}, 20(3):407--415.
+
+\bibitem[{\'A}lvarez-Carretero et~al.,
+  2019]{alvarez-carreteroBayesianEstimationSpecies2019}
+{\'A}lvarez-Carretero, S., Goswami, A., Yang, Z., and Dos~Reis, M. (2019).
+\newblock Bayesian estimation of species divergence times using correlated
+  quantitative characters.
+\newblock {\em Systematic Biology}, 68(6):967--986.
+
+\bibitem[Argue et~al., 2017]{argueAffinitiesHomoFloresiensis2017}
+Argue, D., Groves, C.~P., Lee, M.~S., and Jungers, W.~L. (2017).
+\newblock The affinities of {{Homo}} floresiensis based on phylogenetic
+  analyses of\'acranial, dental, and postcranial characters.
+\newblock {\em Journal of Human Evolution}, 107:107--133.
+
+\bibitem[Arnold et~al., 2010]{arnold10kTreesWebsiteNew2010}
+Arnold, C., Matthews, L.~J., and Nunn, C.~L. (2010).
+\newblock The {{10kTrees}} website: {{A}} new online resource for primate
+  phylogeny.
+\newblock {\em Evolutionary Anthropology: Issues, News, and Reviews},
+  19(3):114--118.
+
+\bibitem[Arnold et~al., 2008]{arnoldUnderstandingEvolutionStability2008}
+Arnold, S.~J., B{\"u}rger, R., Hohenlohe, P.~A., Ajie, B.~C., and Jones, A.~G.
+  (2008).
+\newblock Understanding the {{Evolution}} and {{Stability}} of the
+  {{G}}-{{Matrix}}.
+\newblock {\em Evolution; international journal of organic evolution},
+  62(10):2451--2461.
+
+\bibitem[Bastide et~al., 2018]{bastidePhylogeneticComparativeMethods2018}
+Bastide, P., {Sol{\'i}s-Lemus}, C., Kriebel, R., William~Sparks, K., and
+  An{\'e}, C. (2018).
+\newblock Phylogenetic comparative methods on phylogenetic networks with
+  reticulations.
+\newblock {\em Systematic biology}, 67(5):800--820.
+
+\bibitem[Bivand et~al., 2020]{bivandPackageClassInt2020}
+Bivand, R., Ono, H., Dunlap, R., Stigler, M., and Bivand, M.~R. (2020).
+\newblock Package `{{classInt}}'.
+
+\bibitem[Bookstein, 1997]{booksteinLandmarkMethodsForms1997}
+Bookstein, F.~L. (1997).
+\newblock Landmark methods for forms without landmarks: {{Morphometrics}} of
+  group differences in outline shape.
+\newblock {\em Medical image analysis}, 1(3):225--243.
+
+\bibitem[Bouckaert et~al., 2019]{bouckaertBEASTAdvancedSoftware2019}
+Bouckaert, R., Vaughan, T.~G., {Barido-Sottani}, J., Duch{\^e}ne, S., Fourment,
+  M., Gavryushkina, A., Heled, J., Jones, G., K{\"u}hnert, D., and De~Maio, N.
+  (2019).
+\newblock {{BEAST}} 2.5: {{An}} advanced software platform for {{Bayesian}}
+  evolutionary analysis.
+\newblock {\em PLoS computational biology}, 15(4):e1006650.
+
+\bibitem[Bradley, 2008]{bradleyReconstructingPhylogeniesPhenotypes2008}
+Bradley, B.~J. (2008).
+\newblock Reconstructing phylogenies and phenotypes: {{A}} molecular view of
+  human evolution.
+\newblock {\em Journal of Anatomy}, 212(4):337--353.
+
+\bibitem[Brazeau, 2011]{brazeauProblematicCharacterCoding2011}
+Brazeau, M.~D. (2011).
+\newblock Problematic character coding methods in morphology and their effects.
+\newblock {\em Biological Journal of the Linnean Society}, 104(3):489--498.
+
+\bibitem[Brecht and Freiwald, 2012]{brechtManyFacetsFacial2012}
+Brecht, M. and Freiwald, W.~A. (2012).
+\newblock The many facets of facial interactions in mammals.
+\newblock {\em Current Opinion in Neurobiology}, 22(2):259--266.
+
+\bibitem[Caetano and Harmon, 2019]{caetanoEstimatingCorrelatedRates2019}
+Caetano, D.~S. and Harmon, L.~J. (2019).
+\newblock Estimating correlated rates of trait evolution with uncertainty.
+\newblock {\em Systematic biology}, 68(3):412--429.
+
+\bibitem[Chamberlain and Wood, 1987]{chamberlainEarlyHominidPhylogeny1987}
+Chamberlain, A.~T. and Wood, B.~A. (1987).
+\newblock Early hominid phylogeny.
+\newblock {\em Journal of Human Evolution}, 16(1):119--133.
+
+\bibitem[Cheverud, 1996]{cheverudDevelopmentalIntegrationEvolution1996}
+Cheverud, J.~M. (1996).
+\newblock Developmental integration and the evolution of pleiotropy.
+\newblock {\em American Zoologist}, 36(1):44--50.
+
+\bibitem[Collard and Wood, 2000]{collardHowReliableAre2000}
+Collard, M. and Wood, B. (2000).
+\newblock How reliable are human phylogenetic hypotheses?
+\newblock {\em Proceedings of the National Academy of Sciences},
+  97(9):5003--5006.
+
+\bibitem[Collard and Wood, 2001]{collardHowReliableAre2001}
+Collard, M. and Wood, B. (2001).
+\newblock How reliable are current estimates of fossil catarrhine phylogeny?
+  {{An}} assessment using extant great apes and {{Old World}} monkeys.
+\newblock {\em Hominoid Evolution and Climatic Change in Europe: Volume 2:
+  Phylogeny of the Neogene Hominoid Primates of Eurasia}, 2.
+
+\bibitem[Collins et~al., 2002]{collinsSurvivalOrganicMatter2002}
+Collins, M.~J., {Nielsen{\textendash}Marsh}, C.~M., Hiller, J., Smith, C.~I.,
+  Roberts, J.~P., Prigodich, R.~V., Wess, T.~J., Csapo, J., Millard, A.~R., and
+  {Turner{\textendash}Walker}, G. (2002).
+\newblock The survival of organic matter in bone: {{A}} review.
+\newblock {\em Archaeometry}, 44(3):383--394.
+
+\bibitem[Darwin, 1896]{darwinDescentManSelection1896}
+Darwin, C. (1896).
+\newblock {\em The Descent of Man and Selection in Relation to Sex}, volume~1.
+\newblock {D. Appleton}.
+
+\bibitem[Dembo et~al., 2015]{demboBayesianAnalysisMorphological2015}
+Dembo, M., Matzke, N.~J., Mooers, A.~{\O}., and Collard, M. (2015).
+\newblock Bayesian analysis of a morphological supermatrix sheds light on
+  controversial fossil hominin relationships.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  282(1812):20150943.
+
+\bibitem[Dembo et~al., 2016]{demboEvolutionaryRelationshipsAge2016}
+Dembo, M., Radov{\v c}i{\'c}, D., Garvin, H.~M., Laird, M.~F., Schroeder, L.,
+  Scott, J.~E., Brophy, J., Ackermann, R.~R., Musiba, C.~M., and {de Ruiter},
+  D.~J. (2016).
+\newblock The evolutionary relationships and age of {{Homo}} naledi: {{An}}
+  assessment using dated {{Bayesian}} phylogenetic methods.
+\newblock {\em Journal of Human Evolution}, 97:17--26.
+
+\bibitem[Donoghue and Moore,
+  2003]{donoghueIntegrativeHistoricalBiogeography2003}
+Donoghue, M.~J. and Moore, B.~R. (2003).
+\newblock Toward an integrative historical biogeography.
+\newblock {\em Integrative and comparative biology}, 43(2):261--270.
+
+\bibitem[Dryden and Mardia, 2016]{drydenStatisticalShapeAnalysis2016}
+Dryden, I.~L. and Mardia, K.~V. (2016).
+\newblock {\em Statistical Shape Analysis: {{With}} Applications in {{R}}},
+  volume 995.
+\newblock {John Wiley \& Sons}.
+
+\bibitem[Efron, 1979]{efronBootstrapMethodsAnother1979}
+Efron, B. (1979).
+\newblock Bootstrap {{Methods}}: {{Another Look}} at the {{Jackknife}}.
+\newblock {\em The Annals of Statistics}, 7(1):1--26.
+
+\bibitem[Felsenstein,
+  1973]{felsensteinMaximumlikelihoodEstimationEvolutionary1973}
+Felsenstein, J. (1973).
+\newblock Maximum-likelihood estimation of evolutionary trees from continuous
+  characters.
+\newblock {\em American Journal of Human Genetics}, 25(5):471--492.
+
+\bibitem[Felsenstein, 1985a]{felsensteinConfidenceLimitsPhylogenies1985}
+Felsenstein, J. (1985a).
+\newblock Confidence limits on phylogenies: {{An}} approach using the
+  bootstrap.
+\newblock {\em Evolution}, 39(4):783--791.
+
+\bibitem[Felsenstein, 1985b]{felsensteinPhylogeniesComparativeMethod1985}
+Felsenstein, J. (1985b).
+\newblock Phylogenies and the comparative method.
+\newblock {\em The American Naturalist}, 125(1):1--15.
+
+\bibitem[Felsenstein, 1993]{felsensteinPHYLIPPhylogenyInference1993}
+Felsenstein, J. (1993).
+\newblock {\em {{PHYLIP}} (Phylogeny Inference Package), Version 3.5 c}.
+\newblock {Joseph Felsenstein.}
+
+\bibitem[{Garcia-Cruz} and Sosa,
+  2006]{garcia-cruzCodingQuantitativeCharacter2006}
+{Garcia-Cruz}, J. and Sosa, V. (2006).
+\newblock Coding quantitative character data for phylogenetic analysis: {{A}}
+  comparison of five methods.
+\newblock {\em Systematic Botany}, 31(2):302--309.
+
+\bibitem[Geyer, 1991]{geyerMarkovChainMonte1991}
+Geyer, C.~J. (1991).
+\newblock Markov chain {{Monte Carlo}} maximum likelihood.
+\newblock {\em Computing science and statistics: Proceedings of 23rd Symposium
+  Interface}, 156.
+
+\bibitem[Gibbs et~al., 2000]{gibbsSofttissueCharactersHigher2000}
+Gibbs, S., Collard, M., and Wood, B. (2000).
+\newblock Soft-tissue characters in higher primate phylogenetics.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  97(20):11130--11132.
+
+\bibitem[Glazko and Nei, 2003]{glazkoEstimationDivergenceTimes2003}
+Glazko, G.~V. and Nei, M. (2003).
+\newblock Estimation of divergence times for major lineages of primate species.
+\newblock {\em Molecular biology and evolution}, 20(3):424--434.
+
+\bibitem[Goloboff et~al., 2006]{goloboffContinuousCharactersAnalyzed2006}
+Goloboff, P.~A., Mattoni, C.~I., and Quinteros, A.~S. (2006).
+\newblock Continuous characters analyzed as such.
+\newblock {\em Cladistics}, 22(6):589--601.
+
+\bibitem[Gower, 1975]{gowerGeneralizedProcrustesAnalysis1975}
+Gower, J.~C. (1975).
+\newblock Generalized procrustes analysis.
+\newblock {\em Psychometrika}, 40(1):33--51.
+
+\bibitem[Harvati et~al., 2004]{harvatiNeanderthalTaxonomyReconsidered2004}
+Harvati, K., Frost, S.~R., and McNulty, K.~P. (2004).
+\newblock Neanderthal taxonomy reconsidered: {{Implications}} of {{3D}} primate
+  models of intra-and interspecific differences.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  101(5):1147--1152.
+
+\bibitem[Heath and Moore, 2014]{heathBayesianInferenceSpecies2014}
+Heath, T.~A. and Moore, B.~R. (2014).
+\newblock Bayesian inference of species divergence times.
+\newblock {\em Bayesian phylogenetics: methods, algorithms, and applications},
+  pages 277--318.
+
+\bibitem[H{\"o}hna et~al., 2016]{hohnaRevBayesBayesianPhylogenetic2016a}
+H{\"o}hna, S., Landis, M.~J., Heath, T.~A., Boussau, B., Lartillot, N., Moore,
+  B.~R., Huelsenbeck, J.~P., and Ronquist, F. (2016).
+\newblock {{RevBayes}}: {{Bayesian}} phylogenetic inference using graphical
+  models and an interactive model-specification language.
+\newblock {\em Systematic Biology}, 65(4):726--736.
+
+\bibitem[Irish et~al., 2013]{irishDentalMorphologyPhylogenetic2013}
+Irish, J.~D., {Guatelli-Steinberg}, D., Legge, S.~S., {de Ruiter}, D.~J., and
+  Berger, L.~R. (2013).
+\newblock Dental morphology and the phylogenetic ``{{Place}}'' of
+  {{Australopithecus}} sediba.
+\newblock {\em Science}, 340(6129):1233062.
+
+\bibitem[Jenks, 1967]{jenksDataModelConcept1967}
+Jenks, G.~F. (1967).
+\newblock The data model concept in statistical mapping.
+\newblock {\em International yearbook of cartography}, 7:186--190.
+
+\bibitem[Joy et~al., 2016]{joyAncestralReconstruction2016}
+Joy, J.~B., Liang, R.~H., McCloskey, R.~M., Nguyen, T., and Poon, A.~F. (2016).
+\newblock Ancestral reconstruction.
+\newblock {\em PLoS computational biology}, 12(7):e1004763.
+
+\bibitem[Jukes and Cantor, 1969]{jukesEvolutionProteinMolecules1969}
+Jukes, T.~H. and Cantor, C.~R. (1969).
+\newblock Evolution of protein molecules.
+\newblock {\em Mammalian protein metabolism}, 3(21):132.
+
+\bibitem[Kluge and Farris, 1969]{klugeQuantitativePhyleticsEvolution1969}
+Kluge, A.~G. and Farris, J.~S. (1969).
+\newblock Quantitative phyletics and the evolution of anurans.
+\newblock {\em Systematic Biology}, 18(1):1--32.
+
+\bibitem[Kuhner and Felsenstein, 1994]{kuhnerSimulationComparisonPhylogeny1994}
+Kuhner, M.~K. and Felsenstein, J. (1994).
+\newblock A simulation comparison of phylogeny algorithms under equal and
+  unequal evolutionary rates.
+\newblock {\em Molecular Biology and Evolution}, 11(3):459--468.
+
+\bibitem[Lewis, 2001]{lewisLikelihoodApproachEstimating2001}
+Lewis, P.~O. (2001).
+\newblock A likelihood approach to estimating phylogeny from discrete
+  morphological character data.
+\newblock {\em Systematic biology}, 50(6):913--925.
+
+\bibitem[Maddison, 1991]{maddisonSquaredchangeParsimonyReconstructions1991}
+Maddison, W.~P. (1991).
+\newblock Squared-change parsimony reconstructions of ancestral states for
+  continuous-valued characters on a phylogenetic tree.
+\newblock {\em Systematic Biology}, 40(3):304--314.
+
+\bibitem[Mahalanobis, 1936]{mahalanobisGeneralizedDistanceStatistics1936}
+Mahalanobis, P.~C. (1936).
+\newblock On the generalized distance in statistics.
+\newblock {National Institute of Science of India}.
+
+\bibitem[May and Moore, 2020]{mayBayesianApproachInferring2020}
+May, M.~R. and Moore, B.~R. (2020).
+\newblock A {{Bayesian Approach}} for {{Inferring}} the {{Impact}} of a
+  {{Discrete Character}} on {{Rates}} of {{Continuous}}-{{Character Evolution}}
+  in the {{Presence}} of {{Background}}-{{Rate Variation}}.
+\newblock {\em Systematic Biology}, 69(3):530--544.
+
+\bibitem[Mendes et~al., 2018]{mendesMultispeciesCoalescentModel2018}
+Mendes, F.~K., {Fuentes-Gonz{\'a}lez}, J.~A., Schraiber, J.~G., and Hahn, M.~W.
+  (2018).
+\newblock A multispecies coalescent model for quantitative traits.
+\newblock {\em Elife}, 7:e36482.
+
+\bibitem[Mitteroecker and Gunz,
+  2009]{mitteroeckerAdvancesGeometricMorphometrics2009}
+Mitteroecker, P. and Gunz, P. (2009).
+\newblock Advances in geometric morphometrics.
+\newblock {\em Evolutionary Biology}, 36(2):235--247.
+
+\bibitem[Mitteroecker et~al.,
+  2004]{mitteroeckerComparisonCranialOntogenetic2004}
+Mitteroecker, P., Gunz, P., Bernhard, M., Schaefer, K., and Bookstein, F.~L.
+  (2004).
+\newblock Comparison of cranial ontogenetic trajectories among great apes and
+  humans.
+\newblock {\em Journal of Human Evolution}, 46(6):679--698.
+
+\bibitem[Morlon, 2014]{morlonPhylogeneticApproachesStudying2014}
+Morlon, H. (2014).
+\newblock Phylogenetic approaches for studying diversification.
+\newblock {\em Ecology letters}, 17(4):508--525.
+
+\bibitem[Nee et~al., 1994]{neeReconstructedEvolutionaryProcess1994}
+Nee, S., May, R.~M., and Harvey, P.~H. (1994).
+\newblock The reconstructed evolutionary process.
+\newblock {\em Philosophical Transactions of the Royal Society of London.
+  Series B: Biological Sciences}, 344(1309):305--311.
+
+\bibitem[Nixon, 1999]{nixonParsimonyRatchetNew1999}
+Nixon, K.~C. (1999).
+\newblock The parsimony ratchet, a new method for rapid parsimony analysis.
+\newblock {\em Cladistics}, 15(4):407--414.
+
+\bibitem[O'Reilly et~al., 2018]{oreillyProbabilisticMethodsSurpass2018}
+O'Reilly, J.~E., Puttick, M.~N., Pisani, D., and Donoghue, P.~C. (2018).
+\newblock Probabilistic methods surpass parsimony when assessing clade support
+  in phylogenetic analyses of discrete morphological data.
+\newblock {\em Palaeontology}, 61(1):105--118.
+
+\bibitem[Paradis et~al., 2004]{paradisAPEAnalysesPhylogenetics2004}
+Paradis, E., Claude, J., and Strimmer, K. (2004).
+\newblock {{APE}}: {{Analyses}} of phylogenetics and evolution in {{R}}
+  language.
+\newblock {\em Bioinformatics}, 20(2):289--290.
+
+\bibitem[Pellis et~al., 2011]{pellisUseBaredteethDisplay2011}
+Pellis, S.~M., Pellis, V.~C., Reinhart, C.~J., and Thierry, B. (2011).
+\newblock The use of the bared-teeth display during play fighting in
+  {{Tonkean}} macaques ({{Macaca}} tonkeana): {{Sometimes}} it is all about
+  oneself.
+\newblock {\em Journal of Comparative Psychology}, 125(4):393.
+
+\bibitem[Perelman et~al., 2011]{perelmanMolecularPhylogenyLiving2011}
+Perelman, P., Johnson, W.~E., Roos, C., Seu{\'a}nez, H.~N., Horvath, J.~E.,
+  Moreira, M.~A., Kessing, B., Pontius, J., Roelke, M., and Rumpler, Y. (2011).
+\newblock A molecular phylogeny of living primates.
+\newblock {\em PLoS genetics}, 7(3):e1001342.
+
+\bibitem[Philippe et~al., 2005]{philippeHeterotachyLongbranchAttraction2005}
+Philippe, H., Zhou, Y., Brinkmann, H., Rodrigue, N., and Delsuc, F. (2005).
+\newblock Heterotachy and long-branch attraction in phylogenetics.
+\newblock {\em BMC evolutionary biology}, 5(1):50.
+
+\bibitem[Pickrell and Reich, 2014]{pickrellNewHistoryGeography2014}
+Pickrell, J.~K. and Reich, D. (2014).
+\newblock Toward a new history and geography of human genes informed by ancient
+  {{DNA}}.
+\newblock {\em Trends in Genetics}, 30(9):377--389.
+
+\bibitem[Plummer et~al., 2006]{plummerCODAConvergenceDiagnosis2006}
+Plummer, M., Best, N., Cowles, K., and Vines, K. (2006).
+\newblock {{CODA}}: {{Convergence}} diagnosis and output analysis for {{MCMC}}.
+\newblock {\em R News}, 6(1):7--11.
+
+\bibitem[Posada, 2008]{posadaJModelTestPhylogeneticModel2008}
+Posada, D. (2008).
+\newblock {{jModelTest}}: {{Phylogenetic}} model averaging.
+\newblock {\em Molecular biology and evolution}, 25(7):1253--1256.
+
+\bibitem[Rannala, 2015]{rannalaArtScienceSpecies2015}
+Rannala, B. (2015).
+\newblock The art and science of species delimitation.
+\newblock {\em Current Zoology}, 61(5):846--853.
+
+\bibitem[Rein and Harvati, 2014]{reinGeometricMorphometricsVirtual2014}
+Rein, T.~R. and Harvati, K. (2014).
+\newblock Geometric {{Morphometrics}} and {{Virtual Anthropology}}:
+  {{Advances}} in human evolutionary studies.
+\newblock {\em Anthropologischer Anzeiger}, 71(1-2):41--55.
+
+\bibitem[Reis et~al., 2018]{reisUsingPhylogenomicData2018}
+Reis, M.~D., Gunnell, G.~F., {Barba-Montoya}, J., Wilkins, A., Yang, Z., and
+  Yoder, A.~D. (2018).
+\newblock Using phylogenomic data to explore the effects of relaxed clocks and
+  calibration strategies on divergence time estimation: {{Primates}} as a test
+  case.
+\newblock {\em Systematic biology}, 67(4):594--615.
+
+\bibitem[Revell, 2012]{revellPhytoolsPackagePhylogenetic2012}
+Revell, L.~J. (2012).
+\newblock Phytools: {{An R}} package for phylogenetic comparative biology (and
+  other things).
+\newblock {\em Methods in ecology and evolution}, 3(2):217--223.
+
+\bibitem[Robinson and Foulds, 1981]{robinsonComparisonPhylogeneticTrees1981}
+Robinson, D. and Foulds, L. (1981).
+\newblock Comparison of phylogenetic trees.
+\newblock {\em Mathematical Biosciences}, 53(1-2):131--147.
+
+\bibitem[Roff, 1996]{roffEvolutionGeneticCorrelations1996}
+Roff, D.~A. (1996).
+\newblock The evolution of genetic correlations: {{An}} analysis of patterns.
+\newblock {\em Evolution}, 50(4):1392--1403.
+
+\bibitem[Rogers et~al., 2019]{rogersComparativeGenomicsComplex2019}
+Rogers, J., Raveendran, M., Harris, R.~A., Mailund, T., Lepp{\"a}l{\"a}, K.,
+  Athanasiadis, G., Schierup, M.~H., Cheng, J., Munch, K., and Walker, J.~A.
+  (2019).
+\newblock The comparative genomics and complex population history of {{Papio}}
+  baboons.
+\newblock {\em Science Advances}, 5(1):eaau6947.
+
+\bibitem[Rogers, 1991]{rogersComparisonSuitabilityRogers1991}
+Rogers, J.~S. (1991).
+\newblock A comparison of the suitability of the {{Rogers}}, modified
+  {{Rogers}}, {{Manhattan}}, and {{Cavalli}}-{{Sforza}} and {{Edwards}}
+  distances for inferring phylogenetic trees from allele frequencies.
+\newblock {\em Systematic Biology}, 40(1):63--73.
+
+\bibitem[Rohlf, 2002]{rohlfGeometricMorphometricsPhylogeny2002}
+Rohlf, F.~J. (2002).
+\newblock Geometric morphometrics and phylogeny.
+\newblock {\em Morphology, shape and phylogeny}, 64.
+
+\bibitem[Ronquist and Sanmart{\'i}n,
+  2011]{ronquistPhylogeneticMethodsBiogeography2011}
+Ronquist, F. and Sanmart{\'i}n, I. (2011).
+\newblock Phylogenetic methods in biogeography.
+\newblock {\em Annual Review of Ecology, Evolution, and Systematics},
+  42:441--464.
+
+\bibitem[Saitou and Nei, 1987]{saitouNeighborjoiningMethodNew1987}
+Saitou, N. and Nei, M. (1987).
+\newblock The neighbor-joining method: {{A}} new method for reconstructing
+  phylogenetic trees.
+\newblock {\em Molecular biology and evolution}, 4(4):406--425.
+
+\bibitem[Schliep, 2011]{schliepPhangornPhylogeneticAnalysis2011}
+Schliep, K.~P. (2011).
+\newblock Phangorn: {{Phylogenetic}} analysis in {{R}}.
+\newblock {\em Bioinformatics}, 27(4):592--593.
+
+\bibitem[Schluter et~al., 1997]{schluterLikelihoodAncestorStates1997}
+Schluter, D., Price, T., Mooers, A.~{\O}., and Ludwig, D. (1997).
+\newblock Likelihood of ancestor states in adaptive radiation.
+\newblock {\em Evolution}, 51(6):1699--1711.
+
+\bibitem[Shea, 1983]{sheaPaedomorphosisNeotenyPygmy1983}
+Shea, B.~T. (1983).
+\newblock Paedomorphosis and neoteny in the pygmy chimpanzee.
+\newblock {\em Science}, 222(4623):521--522.
+
+\bibitem[Simmons et~al., 2011]{simmonsFalsepositivePsychologyUndisclosed2011}
+Simmons, J.~P., Nelson, L.~D., and Simonsohn, U. (2011).
+\newblock False-positive psychology: {{Undisclosed}} flexibility in data
+  collection and analysis allows presenting anything as significant.
+\newblock {\em Psychological science}, 22(11):1359--1366.
+
+\bibitem[Skelton and McHenry, 1992]{skeltonEvolutionaryRelationshipsEarly1992}
+Skelton, R.~R. and McHenry, H.~M. (1992).
+\newblock Evolutionary relationships among early hominids.
+\newblock {\em Journal of Human Evolution}, 23(4):309--349.
+
+\bibitem[Sodini et~al., 2018]{sodiniComparisonGenotypicPhenotypic2018}
+Sodini, S.~M., Kemper, K.~E., Wray, N.~R., and Trzaskowski, M. (2018).
+\newblock Comparison of genotypic and phenotypic correlations: {{Cheverud}}'s
+  conjecture in humans.
+\newblock {\em Genetics}, 209(3):941--948.
+
+\bibitem[Sokal and Michener, 1958]{sokalStatisticalMethodEvaluating1958}
+Sokal, R.~R. and Michener, C. (1958).
+\newblock A statistical method for evaluating systematic relationships.
+\newblock {\em Univ. Kansas, Sci. Bull.}, 38:1409--1438.
+
+\bibitem[Springer et~al.,
+  2012]{springerMacroevolutionaryDynamicsHistorical2012}
+Springer, M.~S., Meredith, R.~W., Gatesy, J., Emerling, C.~A., Park, J.,
+  Rabosky, D.~L., Stadler, T., Steiner, C., Ryder, O.~A., and Jane{\v c}ka,
+  J.~E. (2012).
+\newblock Macroevolutionary dynamics and historical biogeography of primate
+  diversification inferred from a species supermatrix.
+\newblock {\em PloS one}, 7(11):e49521.
+
+\bibitem[Steegen et~al., 2016]{steegenIncreasingTransparencyMultiverse2016}
+Steegen, S., Tuerlinckx, F., Gelman, A., and Vanpaemel, W. (2016).
+\newblock Increasing transparency through a multiverse analysis.
+\newblock {\em Perspectives on Psychological Science}, 11(5):702--712.
+
+\bibitem[Strait et~al., 1997]{straitReappraisalEarlyHominid1997}
+Strait, D.~S., Grine, F.~E., and Moniz, M.~A. (1997).
+\newblock A reappraisal of early hominid phylogeny.
+\newblock {\em Journal of human evolution}, 32(1):17--82.
+
+\bibitem[Stringer, 1987]{stringerNumericalCladisticAnalysis1987}
+Stringer, C.~B. (1987).
+\newblock A numerical cladistic analysis for the genus {{Homo}}.
+\newblock {\em Journal of Human Evolution}, 16(1):135--146.
+
+\bibitem[Swofford and Berlocher, 1987]{swoffordInferringEvolutionaryTrees1987}
+Swofford, D.~L. and Berlocher, S.~H. (1987).
+\newblock Inferring evolutionary trees from gene frequency data under the
+  principle of maximum parsimony.
+\newblock {\em Systematic zoology}, 36(3):293--325.
+
+\bibitem[Team, 2013]{rcoreteamLanguageEnvironmentStatistical2013}
+Team, R.~C. (2013).
+\newblock {\em R: {{A}} Language and Environment for Statistical Computing}.
+\newblock {R Foundation for Statistical Computing}.
+
+\bibitem[Thierry, 1985]{thierryPatternsAgonisticInteractions1985}
+Thierry, B. (1985).
+\newblock Patterns of agonistic interactions in three species of macaque
+  ({{Macaca}} mulatta, {{M}} fascicularis, {{M}} tonkeana).
+\newblock {\em Aggressive Behavior}, 11(3):223--233.
+
+\bibitem[Thierry, 2007]{thierryUnityDiversityLessons2007}
+Thierry, B. (2007).
+\newblock Unity in diversity: {{Lessons}} from macaque societies.
+\newblock {\em Evolutionary Anthropology: Issues, News, and Reviews: Issues,
+  News, and Reviews}, 16(6):224--238.
+
+\bibitem[Thierry et~al., 1989]{thierryStructuralConvergenceSilent1989}
+Thierry, B., Demaria, C., Preuschoft, S., and Desportes, C. (1989).
+\newblock Structural convergence between silent bared-teeth display and relaxed
+  open-mouth display in the {{Tonkean}} macaque ({{Macaca}} tonkeana).
+\newblock {\em Folia primatologica}, 52(3-4):178--184.
+
+\bibitem[Thorpe, 1984]{thorpeCodingMorphometricCharacters1984}
+Thorpe, R.~S. (1984).
+\newblock Coding {{Morphometric Characters}} for {{Constructing Distance Wagner
+  Networks}}.
+\newblock {\em Evolution}, 38(2):244--255.
+
+\bibitem[{Var{\'o}n-Gonz{\'a}lez} et~al.,
+  2020]{varon-gonzalezEstimatingPhylogeniesShape2020}
+{Var{\'o}n-Gonz{\'a}lez}, C., Whelan, S., and Klingenberg, P. (2020).
+\newblock Estimating {{Phylogenies}} from {{Shape}} and {{Similar
+  Multidimensional Data}}: {{Why It Is Not Reliable}}.
+\newblock {\em Systematic Biology}.
+
+\bibitem[Weaver, 2018]{weaverNeutralTheoryEvolution2018a}
+Weaver, T. (2018).
+\newblock Neutral theory and the evolution of human physical form: {{An}}
+  introduction to models and applications.
+\newblock {\em J. Anthropol. Sci}, 96:7--26.
+
+\bibitem[Wiens, 2001]{wiensCharacterAnalysisMorphological2001}
+Wiens, J.~J. (2001).
+\newblock Character {{Analysis}} in {{Morphological Phylogenetics}}:
+  {{Problems}} and {{Solutions}}.
+\newblock {\em Systematic Biology}, 50(5):689--699.
+
+\bibitem[Williams et~al.,
+  2001]{williamsDiagnosingHeterochronicPerturbations2001}
+Williams, F.~L., Godfrey, L.~R., Sutherland, M.~R., and Culich, A. (2001).
+\newblock Diagnosing heterochronic perturbations in the craniofacial evolution
+  of {{Homo}} ({{Neandertals}} and modern humans) and {{Pan}}
+  ({{P}}-{{Troglodytes}} and {{P}}-{{Paniscus}}).
+\newblock {\em AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY}.
+
+\bibitem[Worthington, 2017]{worthingtonSelectionCharacterCoding2017}
+Worthington, S. (2017).
+\newblock Selection of {{Character Coding Method Is Not Phylogenetically
+  Neutral}}: {{A Test Case Using Hominoids}}.
+\newblock {\em Folia Primatologica}, 88(5):385--400.
+
+\bibitem[Wright and Hillis, 2014]{wrightBayesianAnalysisUsing2014}
+Wright, A.~M. and Hillis, D.~M. (2014).
+\newblock Bayesian {{Analysis Using}} a {{Simple Likelihood Model Outperforms
+  Parsimony}} for {{Estimation}} of {{Phylogeny}} from {{Discrete Morphological
+  Data}}.
+\newblock {\em PLoS ONE}, 9(10):e109210.
+
+\bibitem[Wright et~al., 2016]{wrightModelingCharacterChange2016}
+Wright, A.~M., Lloyd, G.~T., and Hillis, D.~M. (2016).
+\newblock Modeling {{Character Change Heterogeneity}} in {{Phylogenetic
+  Analyses}} of {{Morphology}} through the {{Use}} of {{Priors}}.
+\newblock {\em Systematic Biology}, 65(4):602--611.
+
+\bibitem[Yang, 1996]{yangAmongsiteRateVariation1996}
+Yang, Z. (1996).
+\newblock Among-site rate variation and its impact on phylogenetic analyses.
+\newblock {\em Trends in Ecology \& Evolution}, 11(9):367--372.
+
+\end{thebibliography}

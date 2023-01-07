@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mvBM_manuscript_JHE.aux
+The style file: apalike.bst
+Database file #1: jhe_paper_references.bib
+Warning--empty journal in adamsGeometricMorphometricAnalyses2019
+Warning--empty journal in bivandPackageClassInt2020
+Warning--empty booktitle in mahalanobisGeneralizedDistanceStatistics1936
+You've used 100 entries,
+            1935 wiz_defined-function locations,
+            1142 strings with 27630 characters,
+and the built_in function-call counts, 41361 in all, are:
+= -- 4062
+> -- 1715
+< -- 62
++ -- 631
+- -- 580
+* -- 3776
+:= -- 7196
+add.period$ -- 298
+call.type$ -- 100
+change.case$ -- 786
+chr.to.int$ -- 99
+cite$ -- 103
+duplicate$ -- 1405
+empty$ -- 2877
+format.name$ -- 728
+if$ -- 7901
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 104
+newline$ -- 501
+num.names$ -- 300
+pop$ -- 570
+preamble$ -- 1
+purify$ -- 790
+quote$ -- 0
+skip$ -- 1071
+stack$ -- 0
+substring$ -- 3342
+swap$ -- 108
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 592
+warning$ -- 3
+while$ -- 364
+width$ -- 0
+write$ -- 1291
+(There were 3 warnings)

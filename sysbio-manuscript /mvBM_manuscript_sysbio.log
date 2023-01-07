@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  7 JAN 2023 08:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  7 JAN 2023 09:53
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -588,7 +588,35 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 54.
 \mylena=\skip92
 \mylenb=\skip93
 
-(./mvBM_manuscript_sysbio.aux)
+(./mvBM_manuscript_sysbio.aux
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+)
 \openout1 = `mvBM_manuscript_sysbio.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
@@ -609,8 +637,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
 LaTeX Font Info:    ... okay on input line 126.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
 26.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 *geometry* driver: auto-detecting
@@ -753,74 +780,17 @@ Left:0.0pt
 Right:0.0pt
 Output:0.0pt
 
-Package natbib Warning: Citation `hollandRiseStatisticalPhylogenetics2013' on p
-age 1 undefined on input line 150.
-
-
-Package natbib Warning: Citation `collinsSurvivalOrganicMatter2002' on page 1 u
-ndefined on input line 150.
-
-
-Package natbib Warning: Citation `allentoftHalflifeDNABone2012' on page 1 undef
-ined on input line 150.
-
-
-Package natbib Warning: Citation `pickrellNewHistoryGeography2014' on page 1 un
-defined on input line 150.
-
-
 Underfull \hbox (badness 1092) in paragraph at lines 150--151
 \OT1/ppl/m/n/10 Statistical phy-lo-ge-net-ics has un-der-gone tremen-dous
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 150--151
-\OT1/ppl/m/n/10 ef-forts, how-ever, have cen-tered on the de-scrip-tion
+Underfull \hbox (badness 2689) in paragraph at lines 150--151
+[][]\OT1/ppl/m/n/10 2013[][]). Most ef-forts, how-ever, have cen-tered on
  []
 
 
-Package natbib Warning: Citation `hollandRiseStatisticalPhylogenetics2013' on p
-age 1 undefined on input line 152.
-
-
-Package natbib Warning: Citation `leeMorphologicalPhylogeneticsGenomic2015' on 
-page 1 undefined on input line 152.
-
-
-Package natbib Warning: Citation `lewisLikelihoodApproachEstimating2001' on pag
-e 1 undefined on input line 152.
-
-
-Package natbib Warning: Citation `jukesEvolutionProteinMolecules1969' on page 1
- undefined on input line 152.
-
-
-Package natbib Warning: Citation `wrightModelingCharacterChange2016' on page 1 
-undefined on input line 152.
-
-
 Underfull \vbox (badness 3536) has occurred while \output is active []
-
-
-
-Package natbib Warning: Citation `lewisLikelihoodApproachEstimating2001' on pag
-e 1 undefined on input line 154.
-
-
-Package natbib Warning: Citation `garcia-cruzCodingQuantitativeCharacter2006' o
-n page 1 undefined on input line 154.
-
-
-Package natbib Warning: Citation `thorpeCodingMorphometricCharacters1984' on pa
-ge 1 undefined on input line 154.
-
-
-Package natbib Warning: Citation `brazeauProblematicCharacterCoding2011' on pag
-e 1 undefined on input line 154.
-
-
-Package natbib Warning: Citation `wiensCharacterAnalysisMorphological2001' on p
-age 1 undefined on input line 154.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -829,111 +799,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-
-Package natbib Warning: Citation `hansenTranslatingMicroevolutionaryProcess1996
-' on page 2 undefined on input line 156.
-
-
-Package natbib Warning: Citation `weaverNeutralTheoryEvolution2018a' on page 2 
-undefined on input line 156.
-
-
-Package natbib Warning: Citation `harmonPhylogeneticComparativeMethods2018' on 
-page 2 undefined on input line 156.
-
-
 Underfull \hbox (badness 1406) in paragraph at lines 156--157
 \OT1/ppl/m/n/10 com-pu-ta-tion-ally tractable de-scrip-tion of con-tin-u-ous
  []
 
 
-Package natbib Warning: Citation `brownXXVIIBriefAccount1828' on page 2 undefin
-ed on input line 158.
+Underfull \hbox (badness 1102) in paragraph at lines 156--157
+\OT1/ppl/m/n/10 to ap-prox-i-mate a va-ri-ety of evo-lu-tion-ary pro-cesses
+ []
 
 
-Package natbib Warning: Citation `einsteinInvestigationsTheoryBrownian1956' on 
-page 2 undefined on input line 158.
+Underfull \hbox (badness 4608) in paragraph at lines 160--161
+[]\OT1/ppl/m/n/10 As phe-nom-ena such as in-te-gra-tion, pleiotropy,
+ []
 
 
-Package natbib Warning: Citation `felsensteinPhylogeniesComparativeMethod1985' 
-on page 2 undefined on input line 158.
-
-
-Package natbib Warning: Citation `butlerPhylogeneticComparativeAnalysis2004' on
- page 2 undefined on input line 158.
-
-
-Package natbib Warning: Citation `beaulieuModelingStabilizingSelection2012' on 
-page 2 undefined on input line 158.
-
-
-Package natbib Warning: Citation `parins-fukuchiUseContinuousTraits2017' on pag
-e 2 undefined on input line 158.
-
-
-Package natbib Warning: Citation `cheverudDevelopmentalIntegrationEvolution1996
-' on page 2 undefined on input line 160.
-
-
-Package natbib Warning: Citation `youngEvolutionaryPersistencePhenotypic2006' o
-n page 2 undefined on input line 160.
-
-
-Package natbib Warning: Citation `mitteroeckerConceptualStatisticalRelationship
-2007' on page 2 undefined on input line 160.
-
-
-Package natbib Warning: Citation `klingenbergMorphologicalIntegrationDevelopmen
-tal2008' on page 2 undefined on input line 160.
-
-
-Package natbib Warning: Citation `klingenbergStudyingMorphologicalIntegration20
-14' on page 2 undefined on input line 160.
-
-
-Package natbib Warning: Citation `parsonsConstraintOpportunityGenetic2011' on p
-age 2 undefined on input line 160.
-
-
-Package natbib Warning: Citation `klingenbergDevelopmentalPlasticityMorphologic
-al2012' on page 2 undefined on input line 160.
-
-
-Package natbib Warning: Citation `neauxBasicraniumFaceAssessing2018' on page 2 
-undefined on input line 160.
+Underfull \hbox (badness 5119) in paragraph at lines 160--161
+\OT1/ppl/m/n/10 ([][]Cheverud[][] [][]1996[][]; [][]Young and Badyaev[][] [][]2
+006[][]; [][]Mit-
+ []
 
 
 Underfull \vbox (badness 5862) has occurred while \output is active []
 
-
-
-Package natbib Warning: Citation `hohnaRevBayesBayesianPhylogenetic2016a' on pa
-ge 2 undefined on input line 162.
-
-
-Package natbib Warning: Citation `howellsCranialVariationMan1973' on page 2 und
-efined on input line 162.
-
-
-Package natbib Warning: Citation `howellsSkullShapesMap1989' on page 2 undefine
-d on input line 162.
-
-
-Package natbib Warning: Citation `howellsWhoWhoSkulls1995' on page 2 undefined 
-on input line 162.
-
-[2]
-
-LaTeX Warning: Reference `fig:univBM' on page 3 undefined on input line 170.
-
-
+ [2]
 Underfull \hbox (badness 5893) in paragraph at lines 170--171
 \OT1/ppl/m/n/10 Univariate Brow-n-ian mo-tion (uvBM) de-scribes a
  []
-
-
-LaTeX Warning: Reference `fig:simpleTree' on page 3 undefined on input line 173
-.
 
 
 Underfull \hbox (badness 1112) in paragraph at lines 173--174
@@ -945,40 +837,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 173--174
 ]
 Underfull \vbox (badness 3525) has occurred while \output is active []
 
-
-
-Package natbib Warning: Citation `felsensteinEvolutionaryTreesGene1981' on page
- 4 undefined on input line 202.
-
-
-LaTeX Warning: Reference `fig:pulleyPrinciple' on page 4 undefined on input lin
-e 202.
-
-
-Package natbib Warning: Citation `felsensteinInferringPhylogenies2004' on page 
-4 undefined on input line 204.
-
-
-LaTeX Warning: Reference `fig:pruningAlgorithm' on page 4 undefined on input li
-ne 206.
-
-
-Package natbib Warning: Citation `felsensteinMaximumlikelihoodEstimationEvoluti
-onary1973' on page 4 undefined on input line 206.
-
-
-Package natbib Warning: Citation `felsensteinPhylogeniesComparativeMethod1985' 
-on page 4 undefined on input line 206.
-
-
-Package natbib Warning: Citation `felsensteinInferringPhylogenies2004' on page 
-4 undefined on input line 206.
-
-
-Package natbib Warning: Citation `hohnaProbabilisticGraphicalModel2014' on page
- 4 undefined on input line 206.
-
-[4]
+ [4]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 212.
 
@@ -1012,218 +871,23 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 246.
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 246.
 
-
-Package natbib Warning: Citation `hohnaRevBayesBayesianPhylogenetic2016a' on pa
-ge 5 undefined on input line 246.
-
-[5]
-
-Package natbib Warning: Citation `yuleMathematicalTheoryEvolution1925' on page 
-6 undefined on input line 252.
-
-
-Package natbib Warning: Citation `brownWhenTreesGrow2009' on page 6 undefined o
-n input line 254.
-
-
-Package natbib Warning: Citation `hohnaRevBayesBayesianPhylogenetic2016a' on pa
-ge 6 undefined on input line 260.
-
-
-Package natbib Warning: Citation `hastingsMonteCarloSampling1970' on page 6 und
-efined on input line 260.
-
-
-Package natbib Warning: Citation `yuleMathematicalTheoryEvolution1925' on page 
-6 undefined on input line 264.
-
-[6]
-
-Package natbib Warning: Citation `plummerCODAConvergenceDiagnosis2006' on page 
-7 undefined on input line 270.
-
-
-Package natbib Warning: Citation `rcoreteamLanguageEnvironmentStatistical2013' 
-on page 7 undefined on input line 270.
-
-
-Package natbib Warning: Citation `robinsonComparisonPhylogeneticTrees1981' on p
-age 7 undefined on input line 270.
-
-
-Package natbib Warning: Citation `kuhnerSimulationComparisonPhylogeny1994' on p
-age 7 undefined on input line 270.
-
-
-Package natbib Warning: Citation `huelsenbeckFrequentistPropertiesBayesian2004'
- on page 7 undefined on input line 274.
+[5] [6]
+Underfull \hbox (badness 1019) in paragraph at lines 274--275
+\OT1/ppl/m/n/10 largely through con-sid-er-a-tion of its ag-gre-gate ``fre-
+ []
 
 
 Underfull \hbox (badness 1400) in paragraph at lines 276--277
 []\OT1/ppl/m/n/10 Next, we eval-u-ated how pre-cisely tree topol-ogy
  []
 
-[7]
+[7] [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `howellsCranialVariationMan1973' on page 8 und
-efined on input line 281.
-
-
-Package natbib Warning: Citation `howellsSkullShapesMap1989' on page 8 undefine
-d on input line 281.
-
-
-Package natbib Warning: Citation `howellsWhoWhoSkulls1995' on page 8 undefined 
-on input line 281.
-
-
-LaTeX Warning: Reference `tab:howellsDataComposition' on page 8 undefined on in
-put line 281.
-
-
-Package natbib Warning: Citation `rosemanRandomGeneticDrift2016' on page 8 unde
-fined on input line 281.
-
-
-Package natbib Warning: Citation `pickrellInferencePopulationSplits2012' on pag
-e 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `cheverudDevelopmentalIntegrationEvolution1996
-' on page 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `roffEstimationGeneticCorrelations1995' on pag
-e 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `reuschQuantitativeGeneticsDung1998' on page 8
- undefined on input line 281.
-
-
-Package natbib Warning: Citation `waittGeneticPhenotypicCorrelations1998' on pa
-ge 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `revellPhylogeneticApproachDetermining2007' on
- page 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `landeNaturalSelectionRandom1976' on page 8 un
-defined on input line 281.
-
-
-Package natbib Warning: Citation `landeQuantitativeGeneticAnalysis1979' on page
- 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `felsensteinPhylogeniesQuantitativeCharacters1
-988a' on page 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `sodiniComparisonGenotypicPhenotypic2018' on p
-age 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `weaverWereNeandertalModern2007' on page 8 und
-efined on input line 281.
-
-
-Package natbib Warning: Citation `weaverUnconstrainedCranialEvolution2015' on p
-age 8 undefined on input line 281.
-
-
-Package natbib Warning: Citation `brownWhenTreesGrow2009' on page 8 undefined o
-n input line 283.
-
-
-Package natbib Warning: Citation `caetanoEstimatingCorrelatedRates2019' on page
- 8 undefined on input line 283.
-
-
-Package natbib Warning: Citation `fischerPlasticityEvolutionCorrelated2016' on 
-page 8 undefined on input line 283.
-
-
-Package natbib Warning: Citation `arnoldUnderstandingEvolutionStability2008' on
- page 8 undefined on input line 283.
-
-
-LaTeX Warning: Reference `fig:mccCophylo' on page 8 undefined on input line 285
-.
-
-
-LaTeX Warning: Reference `sensitivitySexGeom' on page 8 undefined on input line
- 285.
-
-
-Package natbib Warning: Citation `rosemanRandomGeneticDrift2016' on page 8 unde
-fined on input line 289.
-
-[8]
-
-Package natbib Warning: Citation `weaverUnconstrainedCranialEvolution2015' on p
-age 9 undefined on input line 291.
-
-
-Package natbib Warning: Citation `mitteroeckerConceptualStatisticalRelationship
-2007' on page 9 undefined on input line 291.
-
-[9
-
-]
-
-LaTeX Warning: Reference `fig:calibrationCurvePBT' on page 10 undefined on inpu
-t line 299.
-
-
-LaTeX Warning: Reference `fig:calibrationCurvePBT' on page 10 undefined on inpu
-t line 299.
-
-
-LaTeX Warning: Reference `fig:carCurvePBT' on page 10 undefined on input line 3
-01.
-
-
-LaTeX Warning: Reference `fig:carCurvePBT' on page 10 undefined on input line 3
-01.
-
-
-LaTeX Warning: Reference `fig:calibrationCurvePBT' on page 10 undefined on inpu
-t line 301.
-
-
-LaTeX Warning: Reference `fig:carCurvePBT' on page 10 undefined on input line 3
-01.
-
-
+ [9]
 Underfull \hbox (badness 3895) in paragraph at lines 301--302
 []\OT1/ppl/m/n/10 Conditioning on a uni-vari-ate Brow-n-ian mo-tion
  []
-
-
-LaTeX Warning: Reference `fig:mccCophylo' on page 10 undefined on input line 30
-3.
-
-
-LaTeX Warning: Reference `sensitivitySexGeom' on page 10 undefined on input lin
-e 303.
-
-
-LaTeX Warning: Reference `fig:carCurveHowells' on page 10 undefined on input li
-ne 307.
-
-
-LaTeX Warning: Reference `fig:carCurveHowells' on page 10 undefined on input li
-ne 307.
-
-
-LaTeX Warning: Reference `fig:calibrationCurvePBT' on page 10 undefined on inpu
-t line 307.
-
-
-LaTeX Warning: Reference `fig:calibrationCurveHowells' on page 10 undefined on 
-input line 307.
 
 [10
 
@@ -1243,33 +907,9 @@ Underfull \hbox (badness 1189) in paragraph at lines 313--314
  []
 
 
-Package natbib Warning: Citation `pembertonPopulationStructureComprehensive2013
-' on page 11 undefined on input line 315.
-
-
-Package natbib Warning: Citation `pickrellInferencePopulationSplits2012' on pag
-e 11 undefined on input line 315.
-
-
-Package natbib Warning: Citation `liWorldwideHumanRelationships2008' on page 11
- undefined on input line 315.
-
-
-Package natbib Warning: Citation `mallickSimonsGenomeDiversity2016' on page 11 
-undefined on input line 315.
-
-
-Package natbib Warning: Citation `weaverUnconstrainedCranialEvolution2015' on p
-age 11 undefined on input line 315.
-
-
 Underfull \hbox (badness 1466) in paragraph at lines 317--318
 []\OT1/ppl/m/n/10 Inference in this em-pir-i-cal case was done us-ing
  []
-
-
-Package natbib Warning: Citation `alvarez-carreteroBayesianEstimationSpecies201
-9' on page 11 undefined on input line 319.
 
 
 Underfull \hbox (badness 2529) in paragraph at lines 319--320
@@ -1282,49 +922,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [11
 
 ]
-
-Package natbib Warning: Citation `wenBayesianInferenceReticulate2016' on page 1
-2 undefined on input line 323.
-
-
-Package natbib Warning: Citation `wenCoestimatingReticulatePhylogenies2018' on 
-page 12 undefined on input line 323.
-
-
-Package natbib Warning: Citation `pickrellInferencePopulationSplits2012' on pag
-e 12 undefined on input line 323.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package natbib Warning: Citation `felsensteinUsingQuantitativeGenetic2005' on p
-age 12 undefined on input line 325.
-
-
-Package natbib Warning: Citation `felsensteinComparativeMethodBoth2012' on page
- 12 undefined on input line 325.
-
-
-Package natbib Warning: Citation `revellAncestralCharacterEstimation2014a' on p
-age 12 undefined on input line 325.
 
 
 Underfull \hbox (badness 1365) in paragraph at lines 325--326
 \OT1/ppl/m/n/10 presents many ad-di-tional op-por-tu-ni-ties for em-piri-
  []
 
-[12]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+[13
+
+]
 Underfull \hbox (badness 1102) in paragraph at lines 332--333
 \OT1/ppl/m/n/10 Foun-da-tion Grad-u-ate Re-search Fel-low-ship Pro-gram
  []
 
-[13
+[14
 
 
 ]
-<figures/unibivariateBMseed24.png, id=85, 1505.625pt x 501.875pt>
+<figures/unibivariateBMseed24.png, id=418, 1505.625pt x 501.875pt>
 File: figures/unibivariateBMseed24.png Graphic file (type png)
 <use figures/unibivariateBMseed24.png>
 Package pdftex.def Info: figures/unibivariateBMseed24.png  used on input line 3
@@ -1334,31 +954,27 @@ LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 345.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 345.
-<figures/simple3tiptree.png, id=87, 254.8722pt x 284.7438pt>
+<figures/simple3tiptree.png, id=420, 254.8722pt x 284.7438pt>
 File: figures/simple3tiptree.png Graphic file (type png)
 <use figures/simple3tiptree.png>
 Package pdftex.def Info: figures/simple3tiptree.png  used on input line 350.
 (pdftex.def)             Requested size: 142.26378pt x 158.94275pt.
-<figures/identicalLikelihoods.png, id=88, 885.3075pt x 426.59375pt>
+<figures/identicalLikelihoods.png, id=421, 885.3075pt x 426.59375pt>
 File: figures/identicalLikelihoods.png Graphic file (type png)
 <use figures/identicalLikelihoods.png>
 Package pdftex.def Info: figures/identicalLikelihoods.png  used on input line 3
 59.
 (pdftex.def)             Requested size: 241.84842pt x 116.53578pt.
-<figures/pruningAlgorithm.png, id=89, 469.2732pt x 232.7094pt>
+<figures/pruningAlgorithm.png, id=422, 469.2732pt x 232.7094pt>
 File: figures/pruningAlgorithm.png Graphic file (type png)
 <use figures/pruningAlgorithm.png>
 Package pdftex.def Info: figures/pruningAlgorithm.png  used on input line 367.
 (pdftex.def)             Requested size: 455.24408pt x 225.75978pt.
 
 
-LaTeX Warning: Reference `fig:simpleTree' on page 14 undefined on input line 37
-1.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/calibrationCurvePBT.png, id=90, 1204.5pt x 602.25pt>
+<figures/calibrationCurvePBT.png, id=424, 1204.5pt x 602.25pt>
 File: figures/calibrationCurvePBT.png Graphic file (type png)
 <use figures/calibrationCurvePBT.png>
 Package pdftex.def Info: figures/calibrationCurvePBT.png  used on input line 37
@@ -1367,7 +983,7 @@ Package pdftex.def Info: figures/calibrationCurvePBT.png  used on input line 37
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/CARcurvesPBT.png, id=91, 1003.75pt x 602.25pt>
+<figures/CARcurvesPBT.png, id=425, 1003.75pt x 602.25pt>
 File: figures/CARcurvesPBT.png Graphic file (type png)
 <use figures/CARcurvesPBT.png>
 Package pdftex.def Info: figures/CARcurvesPBT.png  used on input line 385.
@@ -1375,19 +991,15 @@ Package pdftex.def Info: figures/CARcurvesPBT.png  used on input line 385.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/howellsTreesMF.png, id=92, 1003.75pt x 602.25pt>
+<figures/howellsTreesMF.png, id=426, 1003.75pt x 602.25pt>
 File: figures/howellsTreesMF.png Graphic file (type png)
 <use figures/howellsTreesMF.png>
 Package pdftex.def Info: figures/howellsTreesMF.png  used on input line 395.
 (pdftex.def)             Requested size: 455.24408pt x 273.15117pt.
 
-Package natbib Warning: Citation `revellPhytoolsPackagePhylogenetic2012' on pag
-e 14 undefined on input line 399.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/sensitivityHowells.png, id=93, 469.2732pt x 438.438pt>
+<figures/sensitivityHowells.png, id=429, 469.2732pt x 438.438pt>
 File: figures/sensitivityHowells.png Graphic file (type png)
 <use figures/sensitivityHowells.png>
 Package pdftex.def Info: figures/sensitivityHowells.png  used on input line 404
@@ -1396,49 +1008,37 @@ Package pdftex.def Info: figures/sensitivityHowells.png  used on input line 404
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/calibrationCurveHowells.png, id=94, 903.375pt x 602.25pt>
+<figures/calibrationCurveHowells.png, id=430, 903.375pt x 602.25pt>
 File: figures/calibrationCurveHowells.png Graphic file (type png)
 <use figures/calibrationCurveHowells.png>
 Package pdftex.def Info: figures/calibrationCurveHowells.png  used on input lin
 e 413.
 (pdftex.def)             Requested size: 341.43306pt x 227.62596pt.
 
-LaTeX Warning: Reference `fig:calibrationCurvePBT' on page 14 undefined on inpu
-t line 417.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/CARcurvesHowells_BW.png, id=95, 803.0pt x 401.5pt>
+<figures/CARcurvesHowells_BW.png, id=432, 803.0pt x 401.5pt>
 File: figures/CARcurvesHowells_BW.png Graphic file (type png)
 <use figures/CARcurvesHowells_BW.png>
 Package pdftex.def Info: figures/CARcurvesHowells_BW.png  used on input line 42
 2.
 (pdftex.def)             Requested size: 455.24408pt x 227.62596pt.
 
-LaTeX Warning: Reference `fig:carCurvePBT' on page 14 undefined on input line 4
-26.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14
+[15
 
 
- <./figures/unibivariateBMseed24.png>] [15 <./figures/simple3tiptree.png> <./fi
-gures/identicalLikelihoods.png> <./figures/pruningAlgorithm.png>] [16 <./figure
-s/calibrationCurvePBT.png>] [17 <./figures/CARcurvesPBT.png>] [18 <./figures/ho
-wellsTreesMF.png>] [19 <./figures/sensitivityHowells.png>] [20 <./figures/calib
+ <./figures/unibivariateBMseed24.png>] [16 <./figures/simple3tiptree.png> <./fi
+gures/identicalLikelihoods.png> <./figures/pruningAlgorithm.png>] [17 <./figure
+s/calibrationCurvePBT.png>] [18 <./figures/CARcurvesPBT.png>] [19 <./figures/ho
+wellsTreesMF.png>] [20 <./figures/sensitivityHowells.png>] [21 <./figures/calib
 rationCurveHowells.png> <./figures/CARcurvesHowells_BW.png>]
 (./tables/linear_data.tex
 Underfull \vbox (badness 10000) detected at line 26
  []
 
-
-Package natbib Warning: Citation `howellsWhoWhoSkulls1995' on page 21 undefined
- on input line 42.
-
-) [21
+) [22
 
 ] (./mvBM_manuscript_sysbio.bbl
 Underfull \hbox (badness 2772) in paragraph at lines 28--32
@@ -1452,49 +1052,33 @@ Underfull \hbox (badness 1460) in paragraph at lines 156--161
 illot,
  []
 
-[22
+[23
 
 
 ])
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 444.
-[23]
+ [24]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 444.
- (./mvBM_manuscript_sysbio.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ (./mvBM_manuscript_sysbio.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 444.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 444.
+Package rerunfilecheck Info: File `mvBM_manuscript_sysbio.out' has not changed.
+
+(rerunfilecheck)             Checksum: A26AC62D2EB1A37866FEBC108B8F7BD2;981.
 
 
-Package rerunfilecheck Warning: File `mvBM_manuscript_sysbio.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `mvBM_manuscript_sysbio.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  A26AC62D2EB1A37866FEBC108B8F7BD2;981.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 444.
  ) 
 Here is how much of TeX's memory you used:
- 12347 strings out of 480608
- 197160 string characters out of 5903631
- 584611 words of memory out of 5000000
- 27783 multiletter control sequences out of 15000+600000
- 575730 words of font info for 143 fonts, out of 8000000 for 9000
+ 12364 strings out of 480608
+ 197395 string characters out of 5903631
+ 588353 words of memory out of 5000000
+ 27800 multiletter control sequences out of 15000+600000
+ 574741 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,55p,3100b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,58p,3100b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -1507,10 +1091,10 @@ xmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fo
 nts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/typ
 e1/urw/palatino/uplri8a.pfb>
-Output written on mvBM_manuscript_sysbio.pdf (23 pages, 1499454 bytes).
+Output written on mvBM_manuscript_sysbio.pdf (24 pages, 1509566 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
- 123 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 557 PDF objects out of 1000 (max. 8388607)
+ 495 compressed objects within 5 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
